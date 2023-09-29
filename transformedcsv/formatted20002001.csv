@@ -1,0 +1,2551 @@
+HE provider,Country of HE provider,Level of study,Mode of study,Category marker,Category,Number
+all,all,all,all,total,total,1990625
+all,all,All postgraduate,all,total,total,448695
+all,all,All postgraduate,full-time,total,total,172285
+all,all,All postgraduate,part-time,total,total,276410
+all,all,All postgraduate,all,domicile,total uk,337335
+all,all,All postgraduate,all,domicile,total non-uk,111365
+all,all,All undergraduate,all,total,total,1541930
+all,all,All undergraduate,full-time,total,total,1037880
+all,all,All undergraduate,part-time,total,total,504045
+all,all,All undergraduate,all,domicile,total uk,1422425
+all,all,All undergraduate,all,domicile,total non-uk,119505
+all,all,all,full-time,total,total,1210165
+all,all,all,part-time,total,total,780455
+all,all,all,all,domicile,total uk,1759760
+all,all,all,all,domicile,total non-uk,230870
+total,england,all,all,total,total,1656700
+total,england,All postgraduate,all,total,total,377810
+total,england,All postgraduate,full-time,total,total,144475
+total,england,All postgraduate,part-time,total,total,233330
+total,england,All postgraduate,all,domicile,total uk,281880
+total,england,All postgraduate,all,domicile,total non-uk,95930
+total,england,All undergraduate,all,total,total,1278895
+total,england,All undergraduate,full-time,total,total,839675
+total,england,All undergraduate,part-time,total,total,439220
+total,england,All undergraduate,all,domicile,total uk,1178455
+total,england,All undergraduate,all,domicile,total non-uk,100435
+total,england,all,full-time,total,total,984150
+total,england,all,part-time,total,total,672550
+total,england,all,all,domicile,total uk,1460335
+total,england,all,all,domicile,total non-uk,196365
+anglia polytechnic university,england,all,all,total,total,23405
+anglia polytechnic university,england,All postgraduate,all,total,total,3295
+anglia polytechnic university,england,All postgraduate,full-time,total,total,545
+anglia polytechnic university,england,All postgraduate,part-time,total,total,2750
+anglia polytechnic university,england,All postgraduate,all,domicile,total uk,2700
+anglia polytechnic university,england,All postgraduate,all,domicile,total non-uk,595
+anglia polytechnic university,england,All undergraduate,all,total,total,20110
+anglia polytechnic university,england,All undergraduate,full-time,total,total,9435
+anglia polytechnic university,england,All undergraduate,part-time,total,total,10675
+anglia polytechnic university,england,All undergraduate,all,domicile,total uk,18270
+anglia polytechnic university,england,All undergraduate,all,domicile,total non-uk,1840
+anglia polytechnic university,england,all,full-time,total,total,9980
+anglia polytechnic university,england,all,part-time,total,total,13425
+anglia polytechnic university,england,all,all,domicile,total uk,20970
+anglia polytechnic university,england,all,all,domicile,total non-uk,2435
+aston university,england,all,all,total,total,6990
+aston university,england,All postgraduate,all,total,total,2000
+aston university,england,All postgraduate,full-time,total,total,465
+aston university,england,All postgraduate,part-time,total,total,1535
+aston university,england,All postgraduate,all,domicile,total uk,1330
+aston university,england,All postgraduate,all,domicile,total non-uk,670
+aston university,england,All undergraduate,all,total,total,4990
+aston university,england,All undergraduate,full-time,total,total,4910
+aston university,england,All undergraduate,part-time,total,total,85
+aston university,england,All undergraduate,all,domicile,total uk,4685
+aston university,england,All undergraduate,all,domicile,total non-uk,310
+aston university,england,all,full-time,total,total,5375
+aston university,england,all,part-time,total,total,1620
+aston university,england,all,all,domicile,total uk,6015
+aston university,england,all,all,domicile,total non-uk,980
+bath spa university college,england,all,all,total,total,4280
+bath spa university college,england,All postgraduate,all,total,total,1325
+bath spa university college,england,All postgraduate,full-time,total,total,515
+bath spa university college,england,All postgraduate,part-time,total,total,810
+bath spa university college,england,All postgraduate,all,domicile,total uk,1280
+bath spa university college,england,All postgraduate,all,domicile,total non-uk,45
+bath spa university college,england,All undergraduate,all,total,total,2955
+bath spa university college,england,All undergraduate,full-time,total,total,2695
+bath spa university college,england,All undergraduate,part-time,total,total,260
+bath spa university college,england,All undergraduate,all,domicile,total uk,2790
+bath spa university college,england,All undergraduate,all,domicile,total non-uk,165
+bath spa university college,england,all,full-time,total,total,3210
+bath spa university college,england,all,part-time,total,total,1070
+bath spa university college,england,all,all,domicile,total uk,4070
+bath spa university college,england,all,all,domicile,total non-uk,210
+the university of bath,england,all,all,total,total,10795
+the university of bath,england,All postgraduate,all,total,total,4650
+the university of bath,england,All postgraduate,full-time,total,total,1155
+the university of bath,england,All postgraduate,part-time,total,total,3495
+the university of bath,england,All postgraduate,all,domicile,total uk,2990
+the university of bath,england,All postgraduate,all,domicile,total non-uk,1660
+the university of bath,england,All undergraduate,all,total,total,6150
+the university of bath,england,All undergraduate,full-time,total,total,6110
+the university of bath,england,All undergraduate,part-time,total,total,35
+the university of bath,england,All undergraduate,all,domicile,total uk,5560
+the university of bath,england,All undergraduate,all,domicile,total non-uk,585
+the university of bath,england,all,full-time,total,total,7265
+the university of bath,england,all,part-time,total,total,3530
+the university of bath,england,all,all,domicile,total uk,8550
+the university of bath,england,all,all,domicile,total non-uk,2245
+birkbeck college,england,all,all,total,total,15390
+birkbeck college,england,All postgraduate,all,total,total,3150
+birkbeck college,england,All postgraduate,full-time,total,total,570
+birkbeck college,england,All postgraduate,part-time,total,total,2580
+birkbeck college,england,All postgraduate,all,domicile,total uk,2830
+birkbeck college,england,All postgraduate,all,domicile,total non-uk,320
+birkbeck college,england,All undergraduate,all,total,total,12240
+birkbeck college,england,All undergraduate,full-time,total,total,10
+birkbeck college,england,All undergraduate,part-time,total,total,12230
+birkbeck college,england,All undergraduate,all,domicile,total uk,12220
+birkbeck college,england,All undergraduate,all,domicile,total non-uk,20
+birkbeck college,england,all,full-time,total,total,580
+birkbeck college,england,all,part-time,total,total,14810
+birkbeck college,england,all,all,domicile,total uk,15050
+birkbeck college,england,all,all,domicile,total non-uk,340
+the university of birmingham,england,all,all,total,total,27105
+the university of birmingham,england,All postgraduate,all,total,total,9575
+the university of birmingham,england,All postgraduate,full-time,total,total,2995
+the university of birmingham,england,All postgraduate,part-time,total,total,6575
+the university of birmingham,england,All postgraduate,all,domicile,total uk,6580
+the university of birmingham,england,All postgraduate,all,domicile,total non-uk,2995
+the university of birmingham,england,All undergraduate,all,total,total,17530
+the university of birmingham,england,All undergraduate,full-time,total,total,14325
+the university of birmingham,england,All undergraduate,part-time,total,total,3210
+the university of birmingham,england,All undergraduate,all,domicile,total uk,15975
+the university of birmingham,england,All undergraduate,all,domicile,total non-uk,1560
+the university of birmingham,england,all,full-time,total,total,17320
+the university of birmingham,england,all,part-time,total,total,9785
+the university of birmingham,england,all,all,domicile,total uk,22555
+the university of birmingham,england,all,all,domicile,total non-uk,4555
+bishop grosseteste college,england,all,all,total,total,1030
+bishop grosseteste college,england,All postgraduate,all,total,total,245
+bishop grosseteste college,england,All postgraduate,full-time,total,total,30
+bishop grosseteste college,england,All postgraduate,part-time,total,total,215
+bishop grosseteste college,england,All postgraduate,all,domicile,total uk,245
+bishop grosseteste college,england,All postgraduate,all,domicile,total non-uk,0
+bishop grosseteste college,england,All undergraduate,all,total,total,785
+bishop grosseteste college,england,All undergraduate,full-time,total,total,785
+bishop grosseteste college,england,All undergraduate,part-time,total,total,0
+bishop grosseteste college,england,All undergraduate,all,domicile,total uk,785
+bishop grosseteste college,england,All undergraduate,all,domicile,total non-uk,0
+bishop grosseteste college,england,all,full-time,total,total,815
+bishop grosseteste college,england,all,part-time,total,total,215
+bishop grosseteste college,england,all,all,domicile,total uk,1030
+bishop grosseteste college,england,all,all,domicile,total non-uk,0
+bolton institute of higher education,england,all,all,total,total,6565
+bolton institute of higher education,england,All postgraduate,all,total,total,1265
+bolton institute of higher education,england,All postgraduate,full-time,total,total,400
+bolton institute of higher education,england,All postgraduate,part-time,total,total,865
+bolton institute of higher education,england,All postgraduate,all,domicile,total uk,1195
+bolton institute of higher education,england,All postgraduate,all,domicile,total non-uk,70
+bolton institute of higher education,england,All undergraduate,all,total,total,5300
+bolton institute of higher education,england,All undergraduate,full-time,total,total,3200
+bolton institute of higher education,england,All undergraduate,part-time,total,total,2100
+bolton institute of higher education,england,All undergraduate,all,domicile,total uk,4970
+bolton institute of higher education,england,All undergraduate,all,domicile,total non-uk,325
+bolton institute of higher education,england,all,full-time,total,total,3600
+bolton institute of higher education,england,all,part-time,total,total,2965
+bolton institute of higher education,england,all,all,domicile,total uk,6165
+bolton institute of higher education,england,all,all,domicile,total non-uk,395
+bournemouth university,england,all,all,total,total,13085
+bournemouth university,england,All postgraduate,all,total,total,1945
+bournemouth university,england,All postgraduate,full-time,total,total,1010
+bournemouth university,england,All postgraduate,part-time,total,total,935
+bournemouth university,england,All postgraduate,all,domicile,total uk,1245
+bournemouth university,england,All postgraduate,all,domicile,total non-uk,700
+bournemouth university,england,All undergraduate,all,total,total,11140
+bournemouth university,england,All undergraduate,full-time,total,total,8555
+bournemouth university,england,All undergraduate,part-time,total,total,2585
+bournemouth university,england,All undergraduate,all,domicile,total uk,10655
+bournemouth university,england,All undergraduate,all,domicile,total non-uk,490
+bournemouth university,england,all,full-time,total,total,9565
+bournemouth university,england,all,part-time,total,total,3520
+bournemouth university,england,all,all,domicile,total uk,11900
+bournemouth university,england,all,all,domicile,total non-uk,1190
+the university of bradford,england,all,all,total,total,11590
+the university of bradford,england,All postgraduate,all,total,total,3165
+the university of bradford,england,All postgraduate,full-time,total,total,770
+the university of bradford,england,All postgraduate,part-time,total,total,2395
+the university of bradford,england,All postgraduate,all,domicile,total uk,2045
+the university of bradford,england,All postgraduate,all,domicile,total non-uk,1120
+the university of bradford,england,All undergraduate,all,total,total,8425
+the university of bradford,england,All undergraduate,full-time,total,total,6275
+the university of bradford,england,All undergraduate,part-time,total,total,2150
+the university of bradford,england,All undergraduate,all,domicile,total uk,7680
+the university of bradford,england,All undergraduate,all,domicile,total non-uk,745
+the university of bradford,england,all,full-time,total,total,7045
+the university of bradford,england,all,part-time,total,total,4545
+the university of bradford,england,all,all,domicile,total uk,9725
+the university of bradford,england,all,all,domicile,total non-uk,1865
+bretton hall college of he,england,all,all,total,total,2575
+bretton hall college of he,england,All postgraduate,all,total,total,325
+bretton hall college of he,england,All postgraduate,full-time,total,total,165
+bretton hall college of he,england,All postgraduate,part-time,total,total,160
+bretton hall college of he,england,All postgraduate,all,domicile,total uk,320
+bretton hall college of he,england,All postgraduate,all,domicile,total non-uk,5
+bretton hall college of he,england,All undergraduate,all,total,total,2250
+bretton hall college of he,england,All undergraduate,full-time,total,total,2015
+bretton hall college of he,england,All undergraduate,part-time,total,total,235
+bretton hall college of he,england,All undergraduate,all,domicile,total uk,2205
+bretton hall college of he,england,All undergraduate,all,domicile,total non-uk,45
+bretton hall college of he,england,all,full-time,total,total,2180
+bretton hall college of he,england,all,part-time,total,total,395
+bretton hall college of he,england,all,all,domicile,total uk,2525
+bretton hall college of he,england,all,all,domicile,total non-uk,50
+the university of brighton,england,all,all,total,total,18035
+the university of brighton,england,All postgraduate,all,total,total,2810
+the university of brighton,england,All postgraduate,full-time,total,total,1005
+the university of brighton,england,All postgraduate,part-time,total,total,1805
+the university of brighton,england,All postgraduate,all,domicile,total uk,2325
+the university of brighton,england,All postgraduate,all,domicile,total non-uk,480
+the university of brighton,england,All undergraduate,all,total,total,15225
+the university of brighton,england,All undergraduate,full-time,total,total,10760
+the university of brighton,england,All undergraduate,part-time,total,total,4465
+the university of brighton,england,All undergraduate,all,domicile,total uk,13255
+the university of brighton,england,All undergraduate,all,domicile,total non-uk,1970
+the university of brighton,england,all,full-time,total,total,11765
+the university of brighton,england,all,part-time,total,total,6270
+the university of brighton,england,all,all,domicile,total uk,15580
+the university of brighton,england,all,all,domicile,total non-uk,2450
+the university of bristol,england,all,all,total,total,20215
+the university of bristol,england,All postgraduate,all,total,total,6720
+the university of bristol,england,All postgraduate,full-time,total,total,2275
+the university of bristol,england,All postgraduate,part-time,total,total,4445
+the university of bristol,england,All postgraduate,all,domicile,total uk,4980
+the university of bristol,england,All postgraduate,all,domicile,total non-uk,1735
+the university of bristol,england,All undergraduate,all,total,total,13495
+the university of bristol,england,All undergraduate,full-time,total,total,9645
+the university of bristol,england,All undergraduate,part-time,total,total,3850
+the university of bristol,england,All undergraduate,all,domicile,total uk,12550
+the university of bristol,england,All undergraduate,all,domicile,total non-uk,945
+the university of bristol,england,all,full-time,total,total,11920
+the university of bristol,england,all,part-time,total,total,8295
+the university of bristol,england,all,all,domicile,total uk,17530
+the university of bristol,england,all,all,domicile,total non-uk,2680
+brunel university,england,all,all,total,total,14670
+brunel university,england,All postgraduate,all,total,total,4735
+brunel university,england,All postgraduate,full-time,total,total,1340
+brunel university,england,All postgraduate,part-time,total,total,3395
+brunel university,england,All postgraduate,all,domicile,total uk,3305
+brunel university,england,All postgraduate,all,domicile,total non-uk,1435
+brunel university,england,All undergraduate,all,total,total,9930
+brunel university,england,All undergraduate,full-time,total,total,8960
+brunel university,england,All undergraduate,part-time,total,total,970
+brunel university,england,All undergraduate,all,domicile,total uk,9325
+brunel university,england,All undergraduate,all,domicile,total non-uk,610
+brunel university,england,all,full-time,total,total,10300
+brunel university,england,all,part-time,total,total,4365
+brunel university,england,all,all,domicile,total uk,12630
+brunel university,england,all,all,domicile,total non-uk,2045
+buckinghamshire chilterns university college,england,all,all,total,total,9510
+buckinghamshire chilterns university college,england,All postgraduate,all,total,total,800
+buckinghamshire chilterns university college,england,All postgraduate,full-time,total,total,165
+buckinghamshire chilterns university college,england,All postgraduate,part-time,total,total,635
+buckinghamshire chilterns university college,england,All postgraduate,all,domicile,total uk,655
+buckinghamshire chilterns university college,england,All postgraduate,all,domicile,total non-uk,145
+buckinghamshire chilterns university college,england,All undergraduate,all,total,total,8705
+buckinghamshire chilterns university college,england,All undergraduate,full-time,total,total,5750
+buckinghamshire chilterns university college,england,All undergraduate,part-time,total,total,2960
+buckinghamshire chilterns university college,england,All undergraduate,all,domicile,total uk,7930
+buckinghamshire chilterns university college,england,All undergraduate,all,domicile,total non-uk,775
+buckinghamshire chilterns university college,england,all,full-time,total,total,5915
+buckinghamshire chilterns university college,england,all,part-time,total,total,3595
+buckinghamshire chilterns university college,england,all,all,domicile,total uk,8585
+buckinghamshire chilterns university college,england,all,all,domicile,total non-uk,920
+the university of cambridge,england,all,all,total,total,23795
+the university of cambridge,england,All postgraduate,all,total,total,8015
+the university of cambridge,england,All postgraduate,full-time,total,total,4370
+the university of cambridge,england,All postgraduate,part-time,total,total,3650
+the university of cambridge,england,All postgraduate,all,domicile,total uk,4455
+the university of cambridge,england,All postgraduate,all,domicile,total non-uk,3560
+the university of cambridge,england,All undergraduate,all,total,total,15775
+the university of cambridge,england,All undergraduate,full-time,total,total,11070
+the university of cambridge,england,All undergraduate,part-time,total,total,4710
+the university of cambridge,england,All undergraduate,all,domicile,total uk,14410
+the university of cambridge,england,All undergraduate,all,domicile,total non-uk,1370
+the university of cambridge,england,all,full-time,total,total,15440
+the university of cambridge,england,all,part-time,total,total,8360
+the university of cambridge,england,all,all,domicile,total uk,18865
+the university of cambridge,england,all,all,domicile,total non-uk,4930
+the institute of cancer research,england,all,all,total,total,450
+the institute of cancer research,england,All postgraduate,all,total,total,200
+the institute of cancer research,england,All postgraduate,full-time,total,total,85
+the institute of cancer research,england,All postgraduate,part-time,total,total,115
+the institute of cancer research,england,All postgraduate,all,domicile,total uk,155
+the institute of cancer research,england,All postgraduate,all,domicile,total non-uk,50
+the institute of cancer research,england,All undergraduate,all,total,total,245
+the institute of cancer research,england,All undergraduate,full-time,total,total,0
+the institute of cancer research,england,All undergraduate,part-time,total,total,245
+the institute of cancer research,england,All undergraduate,all,domicile,total uk,230
+the institute of cancer research,england,All undergraduate,all,domicile,total non-uk,15
+the institute of cancer research,england,all,full-time,total,total,85
+the institute of cancer research,england,all,part-time,total,total,360
+the institute of cancer research,england,all,all,domicile,total uk,385
+the institute of cancer research,england,all,all,domicile,total non-uk,65
+canterbury christ church university college,england,all,all,total,total,12650
+canterbury christ church university college,england,All postgraduate,all,total,total,4070
+canterbury christ church university college,england,All postgraduate,full-time,total,total,870
+canterbury christ church university college,england,All postgraduate,part-time,total,total,3205
+canterbury christ church university college,england,All postgraduate,all,domicile,total uk,3970
+canterbury christ church university college,england,All postgraduate,all,domicile,total non-uk,100
+canterbury christ church university college,england,All undergraduate,all,total,total,8580
+canterbury christ church university college,england,All undergraduate,full-time,total,total,5240
+canterbury christ church university college,england,All undergraduate,part-time,total,total,3340
+canterbury christ church university college,england,All undergraduate,all,domicile,total uk,8125
+canterbury christ church university college,england,All undergraduate,all,domicile,total non-uk,455
+canterbury christ church university college,england,all,full-time,total,total,6110
+canterbury christ church university college,england,all,part-time,total,total,6545
+canterbury christ church university college,england,all,all,domicile,total uk,12095
+canterbury christ church university college,england,all,all,domicile,total non-uk,555
+the university of central england in birmingham,england,all,all,total,total,22270
+the university of central england in birmingham,england,All postgraduate,all,total,total,3835
+the university of central england in birmingham,england,All postgraduate,full-time,total,total,1265
+the university of central england in birmingham,england,All postgraduate,part-time,total,total,2570
+the university of central england in birmingham,england,All postgraduate,all,domicile,total uk,3330
+the university of central england in birmingham,england,All postgraduate,all,domicile,total non-uk,505
+the university of central england in birmingham,england,All undergraduate,all,total,total,18430
+the university of central england in birmingham,england,All undergraduate,full-time,total,total,11070
+the university of central england in birmingham,england,All undergraduate,part-time,total,total,7360
+the university of central england in birmingham,england,All undergraduate,all,domicile,total uk,17400
+the university of central england in birmingham,england,All undergraduate,all,domicile,total non-uk,1035
+the university of central england in birmingham,england,all,full-time,total,total,12335
+the university of central england in birmingham,england,all,part-time,total,total,9930
+the university of central england in birmingham,england,all,all,domicile,total uk,20730
+the university of central england in birmingham,england,all,all,domicile,total non-uk,1540
+the university of central lancashire,england,all,all,total,total,24000
+the university of central lancashire,england,All postgraduate,all,total,total,2485
+the university of central lancashire,england,All postgraduate,full-time,total,total,470
+the university of central lancashire,england,All postgraduate,part-time,total,total,2015
+the university of central lancashire,england,All postgraduate,all,domicile,total uk,2205
+the university of central lancashire,england,All postgraduate,all,domicile,total non-uk,285
+the university of central lancashire,england,All undergraduate,all,total,total,21510
+the university of central lancashire,england,All undergraduate,full-time,total,total,12865
+the university of central lancashire,england,All undergraduate,part-time,total,total,8645
+the university of central lancashire,england,All undergraduate,all,domicile,total uk,19505
+the university of central lancashire,england,All undergraduate,all,domicile,total non-uk,2005
+the university of central lancashire,england,all,full-time,total,total,13335
+the university of central lancashire,england,all,part-time,total,total,10660
+the university of central lancashire,england,all,all,domicile,total uk,21710
+the university of central lancashire,england,all,all,domicile,total non-uk,2290
+central school of speech and drama,england,all,all,total,total,690
+central school of speech and drama,england,All postgraduate,all,total,total,285
+central school of speech and drama,england,All postgraduate,full-time,total,total,220
+central school of speech and drama,england,All postgraduate,part-time,total,total,65
+central school of speech and drama,england,All postgraduate,all,domicile,total uk,250
+central school of speech and drama,england,All postgraduate,all,domicile,total non-uk,40
+central school of speech and drama,england,All undergraduate,all,total,total,405
+central school of speech and drama,england,All undergraduate,full-time,total,total,405
+central school of speech and drama,england,All undergraduate,part-time,total,total,0
+central school of speech and drama,england,All undergraduate,all,domicile,total uk,360
+central school of speech and drama,england,All undergraduate,all,domicile,total non-uk,45
+central school of speech and drama,england,all,full-time,total,total,625
+central school of speech and drama,england,all,part-time,total,total,65
+central school of speech and drama,england,all,all,domicile,total uk,610
+central school of speech and drama,england,all,all,domicile,total non-uk,85
+chester college of he,england,all,all,total,total,6960
+chester college of he,england,All postgraduate,all,total,total,950
+chester college of he,england,All postgraduate,full-time,total,total,185
+chester college of he,england,All postgraduate,part-time,total,total,765
+chester college of he,england,All postgraduate,all,domicile,total uk,940
+chester college of he,england,All postgraduate,all,domicile,total non-uk,10
+chester college of he,england,All undergraduate,all,total,total,6010
+chester college of he,england,All undergraduate,full-time,total,total,4435
+chester college of he,england,All undergraduate,part-time,total,total,1575
+chester college of he,england,All undergraduate,all,domicile,total uk,5855
+chester college of he,england,All undergraduate,all,domicile,total non-uk,155
+chester college of he,england,all,full-time,total,total,4620
+chester college of he,england,all,part-time,total,total,2340
+chester college of he,england,all,all,domicile,total uk,6795
+chester college of he,england,all,all,domicile,total non-uk,165
+university college chichester,england,all,all,total,total,4530
+university college chichester,england,All postgraduate,all,total,total,1390
+university college chichester,england,All postgraduate,full-time,total,total,265
+university college chichester,england,All postgraduate,part-time,total,total,1120
+university college chichester,england,All postgraduate,all,domicile,total uk,1360
+university college chichester,england,All postgraduate,all,domicile,total non-uk,30
+university college chichester,england,All undergraduate,all,total,total,3145
+university college chichester,england,All undergraduate,full-time,total,total,2565
+university college chichester,england,All undergraduate,part-time,total,total,580
+university college chichester,england,All undergraduate,all,domicile,total uk,3020
+university college chichester,england,All undergraduate,all,domicile,total non-uk,120
+university college chichester,england,all,full-time,total,total,2830
+university college chichester,england,all,part-time,total,total,1700
+university college chichester,england,all,all,domicile,total uk,4380
+university college chichester,england,all,all,domicile,total non-uk,150
+city university,england,all,all,total,total,15755
+city university,england,All postgraduate,all,total,total,5870
+city university,england,All postgraduate,full-time,total,total,1995
+city university,england,All postgraduate,part-time,total,total,3880
+city university,england,All postgraduate,all,domicile,total uk,4090
+city university,england,All postgraduate,all,domicile,total non-uk,1780
+city university,england,All undergraduate,all,total,total,9880
+city university,england,All undergraduate,full-time,total,total,5095
+city university,england,All undergraduate,part-time,total,total,4785
+city university,england,All undergraduate,all,domicile,total uk,8815
+city university,england,All undergraduate,all,domicile,total non-uk,1065
+city university,england,all,full-time,total,total,7090
+city university,england,all,part-time,total,total,8665
+city university,england,all,all,domicile,total uk,12905
+city university,england,all,all,domicile,total non-uk,2845
+coventry university,england,all,all,total,total,16935
+coventry university,england,All postgraduate,all,total,total,2375
+coventry university,england,All postgraduate,full-time,total,total,905
+coventry university,england,All postgraduate,part-time,total,total,1465
+coventry university,england,All postgraduate,all,domicile,total uk,1630
+coventry university,england,All postgraduate,all,domicile,total non-uk,745
+coventry university,england,All undergraduate,all,total,total,14560
+coventry university,england,All undergraduate,full-time,total,total,10990
+coventry university,england,All undergraduate,part-time,total,total,3575
+coventry university,england,All undergraduate,all,domicile,total uk,12810
+coventry university,england,All undergraduate,all,domicile,total non-uk,1750
+coventry university,england,all,full-time,total,total,11895
+coventry university,england,all,part-time,total,total,5040
+coventry university,england,all,all,domicile,total uk,14440
+coventry university,england,all,all,domicile,total non-uk,2495
+cranfield university,england,all,all,total,total,4205
+cranfield university,england,All postgraduate,all,total,total,3500
+cranfield university,england,All postgraduate,full-time,total,total,2155
+cranfield university,england,All postgraduate,part-time,total,total,1345
+cranfield university,england,All postgraduate,all,domicile,total uk,2380
+cranfield university,england,All postgraduate,all,domicile,total non-uk,1120
+cranfield university,england,All undergraduate,all,total,total,705
+cranfield university,england,All undergraduate,full-time,total,total,705
+cranfield university,england,All undergraduate,part-time,total,total,0
+cranfield university,england,All undergraduate,all,domicile,total uk,645
+cranfield university,england,All undergraduate,all,domicile,total non-uk,60
+cranfield university,england,all,full-time,total,total,2860
+cranfield university,england,all,part-time,total,total,1345
+cranfield university,england,all,all,domicile,total uk,3025
+cranfield university,england,all,all,domicile,total non-uk,1180
+cumbria institute of the arts,england,all,all,total,total,770
+cumbria institute of the arts,england,All postgraduate,all,total,total,10
+cumbria institute of the arts,england,All postgraduate,full-time,total,total,0
+cumbria institute of the arts,england,All postgraduate,part-time,total,total,10
+cumbria institute of the arts,england,All postgraduate,all,domicile,total uk,10
+cumbria institute of the arts,england,All postgraduate,all,domicile,total non-uk,0
+cumbria institute of the arts,england,All undergraduate,all,total,total,765
+cumbria institute of the arts,england,All undergraduate,full-time,total,total,750
+cumbria institute of the arts,england,All undergraduate,part-time,total,total,10
+cumbria institute of the arts,england,All undergraduate,all,domicile,total uk,710
+cumbria institute of the arts,england,All undergraduate,all,domicile,total non-uk,55
+cumbria institute of the arts,england,all,full-time,total,total,750
+cumbria institute of the arts,england,all,part-time,total,total,20
+cumbria institute of the arts,england,all,all,domicile,total uk,720
+cumbria institute of the arts,england,all,all,domicile,total non-uk,55
+dartington college of arts,england,all,all,total,total,455
+dartington college of arts,england,All postgraduate,all,total,total,65
+dartington college of arts,england,All postgraduate,full-time,total,total,10
+dartington college of arts,england,All postgraduate,part-time,total,total,55
+dartington college of arts,england,All postgraduate,all,domicile,total uk,50
+dartington college of arts,england,All postgraduate,all,domicile,total non-uk,15
+dartington college of arts,england,All undergraduate,all,total,total,390
+dartington college of arts,england,All undergraduate,full-time,total,total,385
+dartington college of arts,england,All undergraduate,part-time,total,total,5
+dartington college of arts,england,All undergraduate,all,domicile,total uk,360
+dartington college of arts,england,All undergraduate,all,domicile,total non-uk,30
+dartington college of arts,england,all,full-time,total,total,395
+dartington college of arts,england,all,part-time,total,total,60
+dartington college of arts,england,all,all,domicile,total uk,410
+dartington college of arts,england,all,all,domicile,total non-uk,45
+de montfort university,england,all,all,total,total,23535
+de montfort university,england,All postgraduate,all,total,total,4420
+de montfort university,england,All postgraduate,full-time,total,total,1400
+de montfort university,england,All postgraduate,part-time,total,total,3015
+de montfort university,england,All postgraduate,all,domicile,total uk,3730
+de montfort university,england,All postgraduate,all,domicile,total non-uk,690
+de montfort university,england,All undergraduate,all,total,total,19115
+de montfort university,england,All undergraduate,full-time,total,total,15685
+de montfort university,england,All undergraduate,part-time,total,total,3435
+de montfort university,england,All undergraduate,all,domicile,total uk,17945
+de montfort university,england,All undergraduate,all,domicile,total non-uk,1170
+de montfort university,england,all,full-time,total,total,17085
+de montfort university,england,all,part-time,total,total,6450
+de montfort university,england,all,all,domicile,total uk,21675
+de montfort university,england,all,all,domicile,total non-uk,1860
+university of derby,england,all,all,total,total,11980
+university of derby,england,All postgraduate,all,total,total,1725
+university of derby,england,All postgraduate,full-time,total,total,295
+university of derby,england,All postgraduate,part-time,total,total,1430
+university of derby,england,All postgraduate,all,domicile,total uk,1555
+university of derby,england,All postgraduate,all,domicile,total non-uk,170
+university of derby,england,All undergraduate,all,total,total,10255
+university of derby,england,All undergraduate,full-time,total,total,8205
+university of derby,england,All undergraduate,part-time,total,total,2050
+university of derby,england,All undergraduate,all,domicile,total uk,9870
+university of derby,england,All undergraduate,all,domicile,total non-uk,385
+university of derby,england,all,full-time,total,total,8500
+university of derby,england,all,part-time,total,total,3480
+university of derby,england,all,all,domicile,total uk,11425
+university of derby,england,all,all,domicile,total non-uk,555
+university of durham,england,all,all,total,total,13205
+university of durham,england,All postgraduate,all,total,total,3470
+university of durham,england,All postgraduate,full-time,total,total,1520
+university of durham,england,All postgraduate,part-time,total,total,1945
+university of durham,england,All postgraduate,all,domicile,total uk,2590
+university of durham,england,All postgraduate,all,domicile,total non-uk,880
+university of durham,england,All undergraduate,all,total,total,9735
+university of durham,england,All undergraduate,full-time,total,total,9095
+university of durham,england,All undergraduate,part-time,total,total,640
+university of durham,england,All undergraduate,all,domicile,total uk,9200
+university of durham,england,All undergraduate,all,domicile,total non-uk,535
+university of durham,england,all,full-time,total,total,10615
+university of durham,england,all,part-time,total,total,2585
+university of durham,england,all,all,domicile,total uk,11790
+university of durham,england,all,all,domicile,total non-uk,1415
+the university of east anglia,england,all,all,total,total,12860
+the university of east anglia,england,All postgraduate,all,total,total,3180
+the university of east anglia,england,All postgraduate,full-time,total,total,1665
+the university of east anglia,england,All postgraduate,part-time,total,total,1515
+the university of east anglia,england,All postgraduate,all,domicile,total uk,2300
+the university of east anglia,england,All postgraduate,all,domicile,total non-uk,875
+the university of east anglia,england,All undergraduate,all,total,total,9680
+the university of east anglia,england,All undergraduate,full-time,total,total,6375
+the university of east anglia,england,All undergraduate,part-time,total,total,3305
+the university of east anglia,england,All undergraduate,all,domicile,total uk,9130
+the university of east anglia,england,All undergraduate,all,domicile,total non-uk,550
+the university of east anglia,england,all,full-time,total,total,8040
+the university of east anglia,england,all,part-time,total,total,4820
+the university of east anglia,england,all,all,domicile,total uk,11430
+the university of east anglia,england,all,all,domicile,total non-uk,1425
+the university of east london,england,all,all,total,total,13050
+the university of east london,england,All postgraduate,all,total,total,3500
+the university of east london,england,All postgraduate,full-time,total,total,1095
+the university of east london,england,All postgraduate,part-time,total,total,2400
+the university of east london,england,All postgraduate,all,domicile,total uk,2805
+the university of east london,england,All postgraduate,all,domicile,total non-uk,695
+the university of east london,england,All undergraduate,all,total,total,9555
+the university of east london,england,All undergraduate,full-time,total,total,7845
+the university of east london,england,All undergraduate,part-time,total,total,1710
+the university of east london,england,All undergraduate,all,domicile,total uk,8125
+the university of east london,england,All undergraduate,all,domicile,total non-uk,1425
+the university of east london,england,all,full-time,total,total,8940
+the university of east london,england,all,part-time,total,total,4110
+the university of east london,england,all,all,domicile,total uk,10930
+the university of east london,england,all,all,domicile,total non-uk,2120
+edge hill college of higher education,england,all,all,total,total,9180
+edge hill college of higher education,england,All postgraduate,all,total,total,1395
+edge hill college of higher education,england,All postgraduate,full-time,total,total,500
+edge hill college of higher education,england,All postgraduate,part-time,total,total,895
+edge hill college of higher education,england,All postgraduate,all,domicile,total uk,1385
+edge hill college of higher education,england,All postgraduate,all,domicile,total non-uk,10
+edge hill college of higher education,england,All undergraduate,all,total,total,7790
+edge hill college of higher education,england,All undergraduate,full-time,total,total,4615
+edge hill college of higher education,england,All undergraduate,part-time,total,total,3170
+edge hill college of higher education,england,All undergraduate,all,domicile,total uk,7670
+edge hill college of higher education,england,All undergraduate,all,domicile,total non-uk,120
+edge hill college of higher education,england,all,full-time,total,total,5115
+edge hill college of higher education,england,all,part-time,total,total,4065
+edge hill college of higher education,england,all,all,domicile,total uk,9055
+edge hill college of higher education,england,all,all,domicile,total non-uk,130
+the university of essex,england,all,all,total,total,8210
+the university of essex,england,All postgraduate,all,total,total,2300
+the university of essex,england,All postgraduate,full-time,total,total,1450
+the university of essex,england,All postgraduate,part-time,total,total,850
+the university of essex,england,All postgraduate,all,domicile,total uk,925
+the university of essex,england,All postgraduate,all,domicile,total non-uk,1375
+the university of essex,england,All undergraduate,all,total,total,5910
+the university of essex,england,All undergraduate,full-time,total,total,4570
+the university of essex,england,All undergraduate,part-time,total,total,1345
+the university of essex,england,All undergraduate,all,domicile,total uk,4635
+the university of essex,england,All undergraduate,all,domicile,total non-uk,1275
+the university of essex,england,all,full-time,total,total,6020
+the university of essex,england,all,part-time,total,total,2195
+the university of essex,england,all,all,domicile,total uk,5560
+the university of essex,england,all,all,domicile,total non-uk,2650
+the university of exeter,england,all,all,total,total,11960
+the university of exeter,england,All postgraduate,all,total,total,3685
+the university of exeter,england,All postgraduate,full-time,total,total,1570
+the university of exeter,england,All postgraduate,part-time,total,total,2110
+the university of exeter,england,All postgraduate,all,domicile,total uk,2535
+the university of exeter,england,All postgraduate,all,domicile,total non-uk,1145
+the university of exeter,england,All undergraduate,all,total,total,8280
+the university of exeter,england,All undergraduate,full-time,total,total,7075
+the university of exeter,england,All undergraduate,part-time,total,total,1205
+the university of exeter,england,All undergraduate,all,domicile,total uk,7800
+the university of exeter,england,All undergraduate,all,domicile,total non-uk,480
+the university of exeter,england,all,full-time,total,total,8645
+the university of exeter,england,all,part-time,total,total,3315
+the university of exeter,england,all,all,domicile,total uk,10335
+the university of exeter,england,all,all,domicile,total non-uk,1625
+falmouth college of arts,england,all,all,total,total,1470
+falmouth college of arts,england,All postgraduate,all,total,total,180
+falmouth college of arts,england,All postgraduate,full-time,total,total,120
+falmouth college of arts,england,All postgraduate,part-time,total,total,65
+falmouth college of arts,england,All postgraduate,all,domicile,total uk,165
+falmouth college of arts,england,All postgraduate,all,domicile,total non-uk,15
+falmouth college of arts,england,All undergraduate,all,total,total,1290
+falmouth college of arts,england,All undergraduate,full-time,total,total,1235
+falmouth college of arts,england,All undergraduate,part-time,total,total,55
+falmouth college of arts,england,All undergraduate,all,domicile,total uk,1200
+falmouth college of arts,england,All undergraduate,all,domicile,total non-uk,95
+falmouth college of arts,england,all,full-time,total,total,1355
+falmouth college of arts,england,all,part-time,total,total,120
+falmouth college of arts,england,all,all,domicile,total uk,1365
+falmouth college of arts,england,all,all,domicile,total non-uk,110
+university of gloucestershire,england,all,all,total,total,9095
+university of gloucestershire,england,All postgraduate,all,total,total,1275
+university of gloucestershire,england,All postgraduate,full-time,total,total,480
+university of gloucestershire,england,All postgraduate,part-time,total,total,795
+university of gloucestershire,england,All postgraduate,all,domicile,total uk,1185
+university of gloucestershire,england,All postgraduate,all,domicile,total non-uk,90
+university of gloucestershire,england,All undergraduate,all,total,total,7820
+university of gloucestershire,england,All undergraduate,full-time,total,total,5780
+university of gloucestershire,england,All undergraduate,part-time,total,total,2040
+university of gloucestershire,england,All undergraduate,all,domicile,total uk,7615
+university of gloucestershire,england,All undergraduate,all,domicile,total non-uk,200
+university of gloucestershire,england,all,full-time,total,total,6260
+university of gloucestershire,england,all,part-time,total,total,2835
+university of gloucestershire,england,all,all,domicile,total uk,8800
+university of gloucestershire,england,all,all,domicile,total non-uk,290
+goldsmiths college,england,all,all,total,total,7330
+goldsmiths college,england,All postgraduate,all,total,total,2295
+goldsmiths college,england,All postgraduate,full-time,total,total,1275
+goldsmiths college,england,All postgraduate,part-time,total,total,1020
+goldsmiths college,england,All postgraduate,all,domicile,total uk,1730
+goldsmiths college,england,All postgraduate,all,domicile,total non-uk,560
+goldsmiths college,england,All undergraduate,all,total,total,5035
+goldsmiths college,england,All undergraduate,full-time,total,total,3720
+goldsmiths college,england,All undergraduate,part-time,total,total,1315
+goldsmiths college,england,All undergraduate,all,domicile,total uk,4450
+goldsmiths college,england,All undergraduate,all,domicile,total non-uk,585
+goldsmiths college,england,all,full-time,total,total,4995
+goldsmiths college,england,all,part-time,total,total,2335
+goldsmiths college,england,all,all,domicile,total uk,6180
+goldsmiths college,england,all,all,domicile,total non-uk,1145
+the university of greenwich,england,all,all,total,total,18105
+the university of greenwich,england,All postgraduate,all,total,total,4170
+the university of greenwich,england,All postgraduate,full-time,total,total,1470
+the university of greenwich,england,All postgraduate,part-time,total,total,2705
+the university of greenwich,england,All postgraduate,all,domicile,total uk,3230
+the university of greenwich,england,All postgraduate,all,domicile,total non-uk,945
+the university of greenwich,england,All undergraduate,all,total,total,13930
+the university of greenwich,england,All undergraduate,full-time,total,total,9980
+the university of greenwich,england,All undergraduate,part-time,total,total,3950
+the university of greenwich,england,All undergraduate,all,domicile,total uk,12460
+the university of greenwich,england,All undergraduate,all,domicile,total non-uk,1475
+the university of greenwich,england,all,full-time,total,total,11450
+the university of greenwich,england,all,part-time,total,total,6655
+the university of greenwich,england,all,all,domicile,total uk,15690
+the university of greenwich,england,all,all,domicile,total non-uk,2420
+harper adams university college,england,all,all,total,total,1745
+harper adams university college,england,All postgraduate,all,total,total,130
+harper adams university college,england,All postgraduate,full-time,total,total,65
+harper adams university college,england,All postgraduate,part-time,total,total,60
+harper adams university college,england,All postgraduate,all,domicile,total uk,105
+harper adams university college,england,All postgraduate,all,domicile,total non-uk,25
+harper adams university college,england,All undergraduate,all,total,total,1615
+harper adams university college,england,All undergraduate,full-time,total,total,1535
+harper adams university college,england,All undergraduate,part-time,total,total,85
+harper adams university college,england,All undergraduate,all,domicile,total uk,1470
+harper adams university college,england,All undergraduate,all,domicile,total non-uk,150
+harper adams university college,england,all,full-time,total,total,1600
+harper adams university college,england,all,part-time,total,total,145
+harper adams university college,england,all,all,domicile,total uk,1575
+harper adams university college,england,all,all,domicile,total non-uk,175
+university of hertfordshire,england,all,all,total,total,18975
+university of hertfordshire,england,All postgraduate,all,total,total,2515
+university of hertfordshire,england,All postgraduate,full-time,total,total,920
+university of hertfordshire,england,All postgraduate,part-time,total,total,1595
+university of hertfordshire,england,All postgraduate,all,domicile,total uk,2035
+university of hertfordshire,england,All postgraduate,all,domicile,total non-uk,475
+university of hertfordshire,england,All undergraduate,all,total,total,16460
+university of hertfordshire,england,All undergraduate,full-time,total,total,13055
+university of hertfordshire,england,All undergraduate,part-time,total,total,3405
+university of hertfordshire,england,All undergraduate,all,domicile,total uk,14805
+university of hertfordshire,england,All undergraduate,all,domicile,total non-uk,1655
+university of hertfordshire,england,all,full-time,total,total,13975
+university of hertfordshire,england,all,part-time,total,total,5000
+university of hertfordshire,england,all,all,domicile,total uk,16840
+university of hertfordshire,england,all,all,domicile,total non-uk,2130
+homerton college,england,all,all,total,total,2880
+homerton college,england,All postgraduate,all,total,total,520
+homerton college,england,All postgraduate,full-time,total,total,455
+homerton college,england,All postgraduate,part-time,total,total,65
+homerton college,england,All postgraduate,all,domicile,total uk,500
+homerton college,england,All postgraduate,all,domicile,total non-uk,20
+homerton college,england,All undergraduate,all,total,total,2360
+homerton college,england,All undergraduate,full-time,total,total,1310
+homerton college,england,All undergraduate,part-time,total,total,1050
+homerton college,england,All undergraduate,all,domicile,total uk,2300
+homerton college,england,All undergraduate,all,domicile,total non-uk,55
+homerton college,england,all,full-time,total,total,1765
+homerton college,england,all,part-time,total,total,1115
+homerton college,england,all,all,domicile,total uk,2800
+homerton college,england,all,all,domicile,total non-uk,75
+the university of huddersfield,england,all,all,total,total,16925
+the university of huddersfield,england,All postgraduate,all,total,total,2895
+the university of huddersfield,england,All postgraduate,full-time,total,total,845
+the university of huddersfield,england,All postgraduate,part-time,total,total,2050
+the university of huddersfield,england,All postgraduate,all,domicile,total uk,2600
+the university of huddersfield,england,All postgraduate,all,domicile,total non-uk,300
+the university of huddersfield,england,All undergraduate,all,total,total,14030
+the university of huddersfield,england,All undergraduate,full-time,total,total,9625
+the university of huddersfield,england,All undergraduate,part-time,total,total,4405
+the university of huddersfield,england,All undergraduate,all,domicile,total uk,13385
+the university of huddersfield,england,All undergraduate,all,domicile,total non-uk,645
+the university of huddersfield,england,all,full-time,total,total,10470
+the university of huddersfield,england,all,part-time,total,total,6455
+the university of huddersfield,england,all,all,domicile,total uk,15985
+the university of huddersfield,england,all,all,domicile,total non-uk,945
+the university of hull,england,all,all,total,total,19915
+the university of hull,england,All postgraduate,all,total,total,3700
+the university of hull,england,All postgraduate,full-time,total,total,1670
+the university of hull,england,All postgraduate,part-time,total,total,2030
+the university of hull,england,All postgraduate,all,domicile,total uk,2280
+the university of hull,england,All postgraduate,all,domicile,total non-uk,1420
+the university of hull,england,All undergraduate,all,total,total,16215
+the university of hull,england,All undergraduate,full-time,total,total,8720
+the university of hull,england,All undergraduate,part-time,total,total,7495
+the university of hull,england,All undergraduate,all,domicile,total uk,15110
+the university of hull,england,All undergraduate,all,domicile,total non-uk,1105
+the university of hull,england,all,full-time,total,total,10390
+the university of hull,england,all,part-time,total,total,9525
+the university of hull,england,all,all,domicile,total uk,17390
+the university of hull,england,all,all,domicile,total non-uk,2525
+"imperial college of science, technology & medicine",england,all,all,total,total,11840
+"imperial college of science, technology & medicine",england,All postgraduate,all,total,total,4775
+"imperial college of science, technology & medicine",england,All postgraduate,full-time,total,total,3060
+"imperial college of science, technology & medicine",england,All postgraduate,part-time,total,total,1715
+"imperial college of science, technology & medicine",england,All postgraduate,all,domicile,total uk,2460
+"imperial college of science, technology & medicine",england,All postgraduate,all,domicile,total non-uk,2315
+"imperial college of science, technology & medicine",england,All undergraduate,all,total,total,7065
+"imperial college of science, technology & medicine",england,All undergraduate,full-time,total,total,7065
+"imperial college of science, technology & medicine",england,All undergraduate,part-time,total,total,0
+"imperial college of science, technology & medicine",england,All undergraduate,all,domicile,total uk,5515
+"imperial college of science, technology & medicine",england,All undergraduate,all,domicile,total non-uk,1555
+"imperial college of science, technology & medicine",england,all,full-time,total,total,10125
+"imperial college of science, technology & medicine",england,all,part-time,total,total,1715
+"imperial college of science, technology & medicine",england,all,all,domicile,total uk,7975
+"imperial college of science, technology & medicine",england,all,all,domicile,total non-uk,3870
+institute of advanced nursing education,england,all,all,total,total,985
+institute of advanced nursing education,england,All postgraduate,all,total,total,295
+institute of advanced nursing education,england,All postgraduate,full-time,total,total,0
+institute of advanced nursing education,england,All postgraduate,part-time,total,total,295
+institute of advanced nursing education,england,All postgraduate,all,domicile,total uk,195
+institute of advanced nursing education,england,All postgraduate,all,domicile,total non-uk,100
+institute of advanced nursing education,england,All undergraduate,all,total,total,690
+institute of advanced nursing education,england,All undergraduate,full-time,total,total,0
+institute of advanced nursing education,england,All undergraduate,part-time,total,total,690
+institute of advanced nursing education,england,All undergraduate,all,domicile,total uk,650
+institute of advanced nursing education,england,All undergraduate,all,domicile,total non-uk,40
+institute of advanced nursing education,england,all,full-time,total,total,0
+institute of advanced nursing education,england,all,part-time,total,total,985
+institute of advanced nursing education,england,all,all,domicile,total uk,845
+institute of advanced nursing education,england,all,all,domicile,total non-uk,140
+institute of education,england,all,all,total,total,4710
+institute of education,england,All postgraduate,all,total,total,4670
+institute of education,england,All postgraduate,full-time,total,total,1740
+institute of education,england,All postgraduate,part-time,total,total,2930
+institute of education,england,All postgraduate,all,domicile,total uk,3980
+institute of education,england,All postgraduate,all,domicile,total non-uk,690
+institute of education,england,All undergraduate,all,total,total,45
+institute of education,england,All undergraduate,full-time,total,total,5
+institute of education,england,All undergraduate,part-time,total,total,40
+institute of education,england,All undergraduate,all,domicile,total uk,45
+institute of education,england,All undergraduate,all,domicile,total non-uk,0
+institute of education,england,all,full-time,total,total,1745
+institute of education,england,all,part-time,total,total,2970
+institute of education,england,all,all,domicile,total uk,4025
+institute of education,england,all,all,domicile,total non-uk,690
+the university of keele,england,all,all,total,total,10200
+the university of keele,england,All postgraduate,all,total,total,3120
+the university of keele,england,All postgraduate,full-time,total,total,1005
+the university of keele,england,All postgraduate,part-time,total,total,2120
+the university of keele,england,All postgraduate,all,domicile,total uk,2410
+the university of keele,england,All postgraduate,all,domicile,total non-uk,710
+the university of keele,england,All undergraduate,all,total,total,7075
+the university of keele,england,All undergraduate,full-time,total,total,4610
+the university of keele,england,All undergraduate,part-time,total,total,2470
+the university of keele,england,All undergraduate,all,domicile,total uk,6810
+the university of keele,england,All undergraduate,all,domicile,total non-uk,270
+the university of keele,england,all,full-time,total,total,5615
+the university of keele,england,all,part-time,total,total,4590
+the university of keele,england,all,all,domicile,total uk,9220
+the university of keele,england,all,all,domicile,total non-uk,980
+the university of kent at canterbury,england,all,all,total,total,11455
+the university of kent at canterbury,england,All postgraduate,all,total,total,2195
+the university of kent at canterbury,england,All postgraduate,full-time,total,total,945
+the university of kent at canterbury,england,All postgraduate,part-time,total,total,1250
+the university of kent at canterbury,england,All postgraduate,all,domicile,total uk,1390
+the university of kent at canterbury,england,All postgraduate,all,domicile,total non-uk,805
+the university of kent at canterbury,england,All undergraduate,all,total,total,9260
+the university of kent at canterbury,england,All undergraduate,full-time,total,total,6350
+the university of kent at canterbury,england,All undergraduate,part-time,total,total,2910
+the university of kent at canterbury,england,All undergraduate,all,domicile,total uk,7860
+the university of kent at canterbury,england,All undergraduate,all,domicile,total non-uk,1400
+the university of kent at canterbury,england,all,full-time,total,total,7295
+the university of kent at canterbury,england,all,part-time,total,total,4160
+the university of kent at canterbury,england,all,all,domicile,total uk,9250
+the university of kent at canterbury,england,all,all,domicile,total non-uk,2205
+kent institute of art & design,england,all,all,total,total,1975
+kent institute of art & design,england,All postgraduate,all,total,total,70
+kent institute of art & design,england,All postgraduate,full-time,total,total,45
+kent institute of art & design,england,All postgraduate,part-time,total,total,20
+kent institute of art & design,england,All postgraduate,all,domicile,total uk,30
+kent institute of art & design,england,All postgraduate,all,domicile,total non-uk,40
+kent institute of art & design,england,All undergraduate,all,total,total,1905
+kent institute of art & design,england,All undergraduate,full-time,total,total,1745
+kent institute of art & design,england,All undergraduate,part-time,total,total,160
+kent institute of art & design,england,All undergraduate,all,domicile,total uk,1455
+kent institute of art & design,england,All undergraduate,all,domicile,total non-uk,450
+kent institute of art & design,england,all,full-time,total,total,1790
+kent institute of art & design,england,all,part-time,total,total,180
+kent institute of art & design,england,all,all,domicile,total uk,1485
+kent institute of art & design,england,all,all,domicile,total non-uk,490
+"king alfred's college, winchester",england,all,all,total,total,5150
+"king alfred's college, winchester",england,All postgraduate,all,total,total,900
+"king alfred's college, winchester",england,All postgraduate,full-time,total,total,150
+"king alfred's college, winchester",england,All postgraduate,part-time,total,total,750
+"king alfred's college, winchester",england,All postgraduate,all,domicile,total uk,880
+"king alfred's college, winchester",england,All postgraduate,all,domicile,total non-uk,20
+"king alfred's college, winchester",england,All undergraduate,all,total,total,4250
+"king alfred's college, winchester",england,All undergraduate,full-time,total,total,3015
+"king alfred's college, winchester",england,All undergraduate,part-time,total,total,1235
+"king alfred's college, winchester",england,All undergraduate,all,domicile,total uk,4155
+"king alfred's college, winchester",england,All undergraduate,all,domicile,total non-uk,95
+"king alfred's college, winchester",england,all,full-time,total,total,3165
+"king alfred's college, winchester",england,all,part-time,total,total,1985
+"king alfred's college, winchester",england,all,all,domicile,total uk,5035
+"king alfred's college, winchester",england,all,all,domicile,total non-uk,115
+king's college london,england,all,all,total,total,18770
+king's college london,england,All postgraduate,all,total,total,5660
+king's college london,england,All postgraduate,full-time,total,total,2520
+king's college london,england,All postgraduate,part-time,total,total,3140
+king's college london,england,All postgraduate,all,domicile,total uk,4120
+king's college london,england,All postgraduate,all,domicile,total non-uk,1540
+king's college london,england,All undergraduate,all,total,total,13115
+king's college london,england,All undergraduate,full-time,total,total,11040
+king's college london,england,All undergraduate,part-time,total,total,2075
+king's college london,england,All undergraduate,all,domicile,total uk,11570
+king's college london,england,All undergraduate,all,domicile,total non-uk,1545
+king's college london,england,all,full-time,total,total,13560
+king's college london,england,all,part-time,total,total,5215
+king's college london,england,all,all,domicile,total uk,15690
+king's college london,england,all,all,domicile,total non-uk,3085
+kingston university,england,all,all,total,total,16165
+kingston university,england,All postgraduate,all,total,total,3765
+kingston university,england,All postgraduate,full-time,total,total,875
+kingston university,england,All postgraduate,part-time,total,total,2885
+kingston university,england,All postgraduate,all,domicile,total uk,2900
+kingston university,england,All postgraduate,all,domicile,total non-uk,860
+kingston university,england,All undergraduate,all,total,total,12405
+kingston university,england,All undergraduate,full-time,total,total,11075
+kingston university,england,All undergraduate,part-time,total,total,1330
+kingston university,england,All undergraduate,all,domicile,total uk,11050
+kingston university,england,All undergraduate,all,domicile,total non-uk,1355
+kingston university,england,all,full-time,total,total,11950
+kingston university,england,all,part-time,total,total,4215
+kingston university,england,all,all,domicile,total uk,13950
+kingston university,england,all,all,domicile,total non-uk,2215
+the university of lancaster,england,all,all,total,total,12100
+the university of lancaster,england,All postgraduate,all,total,total,2990
+the university of lancaster,england,All postgraduate,full-time,total,total,1195
+the university of lancaster,england,All postgraduate,part-time,total,total,1795
+the university of lancaster,england,All postgraduate,all,domicile,total uk,2030
+the university of lancaster,england,All postgraduate,all,domicile,total non-uk,960
+the university of lancaster,england,All undergraduate,all,total,total,9110
+the university of lancaster,england,All undergraduate,full-time,total,total,6575
+the university of lancaster,england,All undergraduate,part-time,total,total,2535
+the university of lancaster,england,All undergraduate,all,domicile,total uk,8235
+the university of lancaster,england,All undergraduate,all,domicile,total non-uk,875
+the university of lancaster,england,all,full-time,total,total,7770
+the university of lancaster,england,all,part-time,total,total,4330
+the university of lancaster,england,all,all,domicile,total uk,10265
+the university of lancaster,england,all,all,domicile,total non-uk,1835
+leeds metropolitan university,england,all,all,total,total,25465
+leeds metropolitan university,england,All postgraduate,all,total,total,3735
+leeds metropolitan university,england,All postgraduate,full-time,total,total,935
+leeds metropolitan university,england,All postgraduate,part-time,total,total,2800
+leeds metropolitan university,england,All postgraduate,all,domicile,total uk,3205
+leeds metropolitan university,england,All postgraduate,all,domicile,total non-uk,530
+leeds metropolitan university,england,All undergraduate,all,total,total,21725
+leeds metropolitan university,england,All undergraduate,full-time,total,total,12790
+leeds metropolitan university,england,All undergraduate,part-time,total,total,8935
+leeds metropolitan university,england,All undergraduate,all,domicile,total uk,20020
+leeds metropolitan university,england,All undergraduate,all,domicile,total non-uk,1710
+leeds metropolitan university,england,all,full-time,total,total,13725
+leeds metropolitan university,england,all,part-time,total,total,11735
+leeds metropolitan university,england,all,all,domicile,total uk,23225
+leeds metropolitan university,england,all,all,domicile,total non-uk,2240
+the university of leeds,england,all,all,total,total,29050
+the university of leeds,england,All postgraduate,all,total,total,7380
+the university of leeds,england,All postgraduate,full-time,total,total,4370
+the university of leeds,england,All postgraduate,part-time,total,total,3015
+the university of leeds,england,All postgraduate,all,domicile,total uk,4915
+the university of leeds,england,All postgraduate,all,domicile,total non-uk,2465
+the university of leeds,england,All undergraduate,all,total,total,21670
+the university of leeds,england,All undergraduate,full-time,total,total,17515
+the university of leeds,england,All undergraduate,part-time,total,total,4155
+the university of leeds,england,All undergraduate,all,domicile,total uk,19900
+the university of leeds,england,All undergraduate,all,domicile,total non-uk,1770
+the university of leeds,england,all,full-time,total,total,21885
+the university of leeds,england,all,part-time,total,total,7170
+the university of leeds,england,all,all,domicile,total uk,24815
+the university of leeds,england,all,all,domicile,total non-uk,4235
+the university of leicester,england,all,all,total,total,16775
+the university of leicester,england,All postgraduate,all,total,total,9245
+the university of leicester,england,All postgraduate,full-time,total,total,2020
+the university of leicester,england,All postgraduate,part-time,total,total,7225
+the university of leicester,england,All postgraduate,all,domicile,total uk,7110
+the university of leicester,england,All postgraduate,all,domicile,total non-uk,2135
+the university of leicester,england,All undergraduate,all,total,total,7525
+the university of leicester,england,All undergraduate,full-time,total,total,6935
+the university of leicester,england,All undergraduate,part-time,total,total,595
+the university of leicester,england,All undergraduate,all,domicile,total uk,6990
+the university of leicester,england,All undergraduate,all,domicile,total non-uk,535
+the university of leicester,england,all,full-time,total,total,8955
+the university of leicester,england,all,part-time,total,total,7820
+the university of leicester,england,all,all,domicile,total uk,14100
+the university of leicester,england,all,all,domicile,total non-uk,2670
+the university of lincoln,england,all,all,total,total,14330
+the university of lincoln,england,All postgraduate,all,total,total,2630
+the university of lincoln,england,All postgraduate,full-time,total,total,1225
+the university of lincoln,england,All postgraduate,part-time,total,total,1405
+the university of lincoln,england,All postgraduate,all,domicile,total uk,1570
+the university of lincoln,england,All postgraduate,all,domicile,total non-uk,1060
+the university of lincoln,england,All undergraduate,all,total,total,11695
+the university of lincoln,england,All undergraduate,full-time,total,total,7380
+the university of lincoln,england,All undergraduate,part-time,total,total,4315
+the university of lincoln,england,All undergraduate,all,domicile,total uk,10350
+the university of lincoln,england,All undergraduate,all,domicile,total non-uk,1345
+the university of lincoln,england,all,full-time,total,total,8605
+the university of lincoln,england,all,part-time,total,total,5720
+the university of lincoln,england,all,all,domicile,total uk,11920
+the university of lincoln,england,all,all,domicile,total non-uk,2405
+liverpool hope,england,all,all,total,total,6415
+liverpool hope,england,All postgraduate,all,total,total,1390
+liverpool hope,england,All postgraduate,full-time,total,total,545
+liverpool hope,england,All postgraduate,part-time,total,total,840
+liverpool hope,england,All postgraduate,all,domicile,total uk,1340
+liverpool hope,england,All postgraduate,all,domicile,total non-uk,50
+liverpool hope,england,All undergraduate,all,total,total,5025
+liverpool hope,england,All undergraduate,full-time,total,total,3935
+liverpool hope,england,All undergraduate,part-time,total,total,1090
+liverpool hope,england,All undergraduate,all,domicile,total uk,4820
+liverpool hope,england,All undergraduate,all,domicile,total non-uk,205
+liverpool hope,england,all,full-time,total,total,4480
+liverpool hope,england,all,part-time,total,total,1930
+liverpool hope,england,all,all,domicile,total uk,6160
+liverpool hope,england,all,all,domicile,total non-uk,255
+liverpool john moores university,england,all,all,total,total,20665
+liverpool john moores university,england,All postgraduate,all,total,total,2925
+liverpool john moores university,england,All postgraduate,full-time,total,total,750
+liverpool john moores university,england,All postgraduate,part-time,total,total,2175
+liverpool john moores university,england,All postgraduate,all,domicile,total uk,2535
+liverpool john moores university,england,All postgraduate,all,domicile,total non-uk,395
+liverpool john moores university,england,All undergraduate,all,total,total,17740
+liverpool john moores university,england,All undergraduate,full-time,total,total,12885
+liverpool john moores university,england,All undergraduate,part-time,total,total,4855
+liverpool john moores university,england,All undergraduate,all,domicile,total uk,16505
+liverpool john moores university,england,All undergraduate,all,domicile,total non-uk,1235
+liverpool john moores university,england,all,full-time,total,total,13635
+liverpool john moores university,england,all,part-time,total,total,7030
+liverpool john moores university,england,all,all,domicile,total uk,19040
+liverpool john moores university,england,all,all,domicile,total non-uk,1630
+the university of liverpool,england,all,all,total,total,22450
+the university of liverpool,england,All postgraduate,all,total,total,5900
+the university of liverpool,england,All postgraduate,full-time,total,total,2275
+the university of liverpool,england,All postgraduate,part-time,total,total,3625
+the university of liverpool,england,All postgraduate,all,domicile,total uk,3880
+the university of liverpool,england,All postgraduate,all,domicile,total non-uk,2020
+the university of liverpool,england,All undergraduate,all,total,total,16550
+the university of liverpool,england,All undergraduate,full-time,total,total,11515
+the university of liverpool,england,All undergraduate,part-time,total,total,5035
+the university of liverpool,england,All undergraduate,all,domicile,total uk,15610
+the university of liverpool,england,All undergraduate,all,domicile,total non-uk,940
+the university of liverpool,england,all,full-time,total,total,13790
+the university of liverpool,england,all,part-time,total,total,8660
+the university of liverpool,england,all,all,domicile,total uk,19490
+the university of liverpool,england,all,all,domicile,total non-uk,2960
+london business school,england,all,all,total,total,1470
+london business school,england,All postgraduate,all,total,total,1470
+london business school,england,All postgraduate,full-time,total,total,825
+london business school,england,All postgraduate,part-time,total,total,645
+london business school,england,All postgraduate,all,domicile,total uk,580
+london business school,england,All postgraduate,all,domicile,total non-uk,890
+london business school,england,All undergraduate,all,total,total,0
+london business school,england,All undergraduate,full-time,total,total,0
+london business school,england,All undergraduate,part-time,total,total,0
+london business school,england,All undergraduate,all,domicile,total uk,0
+london business school,england,All undergraduate,all,domicile,total non-uk,0
+london business school,england,all,full-time,total,total,825
+london business school,england,all,part-time,total,total,645
+london business school,england,all,all,domicile,total uk,580
+london business school,england,all,all,domicile,total non-uk,890
+university of london institutes and activities,england,all,all,total,total,765
+university of london institutes and activities,england,All postgraduate,all,total,total,575
+university of london institutes and activities,england,All postgraduate,full-time,total,total,375
+university of london institutes and activities,england,All postgraduate,part-time,total,total,200
+university of london institutes and activities,england,All postgraduate,all,domicile,total uk,335
+university of london institutes and activities,england,All postgraduate,all,domicile,total non-uk,240
+university of london institutes and activities,england,All undergraduate,all,total,total,190
+university of london institutes and activities,england,All undergraduate,full-time,total,total,190
+university of london institutes and activities,england,All undergraduate,part-time,total,total,0
+university of london institutes and activities,england,All undergraduate,all,domicile,total uk,165
+university of london institutes and activities,england,All undergraduate,all,domicile,total non-uk,25
+university of london institutes and activities,england,all,full-time,total,total,565
+university of london institutes and activities,england,all,part-time,total,total,200
+university of london institutes and activities,england,all,all,domicile,total uk,500
+university of london institutes and activities,england,all,all,domicile,total non-uk,265
+london guildhall university,england,all,all,total,total,13940
+london guildhall university,england,All postgraduate,all,total,total,2215
+london guildhall university,england,All postgraduate,full-time,total,total,540
+london guildhall university,england,All postgraduate,part-time,total,total,1675
+london guildhall university,england,All postgraduate,all,domicile,total uk,1875
+london guildhall university,england,All postgraduate,all,domicile,total non-uk,340
+london guildhall university,england,All undergraduate,all,total,total,11725
+london guildhall university,england,All undergraduate,full-time,total,total,8010
+london guildhall university,england,All undergraduate,part-time,total,total,3715
+london guildhall university,england,All undergraduate,all,domicile,total uk,10300
+london guildhall university,england,All undergraduate,all,domicile,total non-uk,1425
+london guildhall university,england,all,full-time,total,total,8550
+london guildhall university,england,all,part-time,total,total,5390
+london guildhall university,england,all,all,domicile,total uk,12175
+london guildhall university,england,all,all,domicile,total non-uk,1765
+the london institute,england,all,all,total,total,10275
+the london institute,england,All postgraduate,all,total,total,1510
+the london institute,england,All postgraduate,full-time,total,total,805
+the london institute,england,All postgraduate,part-time,total,total,705
+the london institute,england,All postgraduate,all,domicile,total uk,1020
+the london institute,england,All postgraduate,all,domicile,total non-uk,490
+the london institute,england,All undergraduate,all,total,total,8765
+the london institute,england,All undergraduate,full-time,total,total,7970
+the london institute,england,All undergraduate,part-time,total,total,795
+the london institute,england,All undergraduate,all,domicile,total uk,6235
+the london institute,england,All undergraduate,all,domicile,total non-uk,2530
+the london institute,england,all,full-time,total,total,8775
+the london institute,england,all,part-time,total,total,1500
+the london institute,england,all,all,domicile,total uk,7255
+the london institute,england,all,all,domicile,total non-uk,3020
+london school of economics and political science,england,all,all,total,total,7150
+london school of economics and political science,england,All postgraduate,all,total,total,3905
+london school of economics and political science,england,All postgraduate,full-time,total,total,2955
+london school of economics and political science,england,All postgraduate,part-time,total,total,950
+london school of economics and political science,england,All postgraduate,all,domicile,total uk,1140
+london school of economics and political science,england,All postgraduate,all,domicile,total non-uk,2765
+london school of economics and political science,england,All undergraduate,all,total,total,3245
+london school of economics and political science,england,All undergraduate,full-time,total,total,3110
+london school of economics and political science,england,All undergraduate,part-time,total,total,135
+london school of economics and political science,england,All undergraduate,all,domicile,total uk,1705
+london school of economics and political science,england,All undergraduate,all,domicile,total non-uk,1540
+london school of economics and political science,england,all,full-time,total,total,6065
+london school of economics and political science,england,all,part-time,total,total,1085
+london school of economics and political science,england,all,all,domicile,total uk,2845
+london school of economics and political science,england,all,all,domicile,total non-uk,4305
+london school of hygiene & tropical medicine,england,all,all,total,total,715
+london school of hygiene & tropical medicine,england,All postgraduate,all,total,total,715
+london school of hygiene & tropical medicine,england,All postgraduate,full-time,total,total,565
+london school of hygiene & tropical medicine,england,All postgraduate,part-time,total,total,150
+london school of hygiene & tropical medicine,england,All postgraduate,all,domicile,total uk,340
+london school of hygiene & tropical medicine,england,All postgraduate,all,domicile,total non-uk,375
+london school of hygiene & tropical medicine,england,All undergraduate,all,total,total,0
+london school of hygiene & tropical medicine,england,All undergraduate,full-time,total,total,0
+london school of hygiene & tropical medicine,england,All undergraduate,part-time,total,total,0
+london school of hygiene & tropical medicine,england,All undergraduate,all,domicile,total uk,0
+london school of hygiene & tropical medicine,england,All undergraduate,all,domicile,total non-uk,0
+london school of hygiene & tropical medicine,england,all,full-time,total,total,565
+london school of hygiene & tropical medicine,england,all,part-time,total,total,150
+london school of hygiene & tropical medicine,england,all,all,domicile,total uk,340
+london school of hygiene & tropical medicine,england,all,all,domicile,total non-uk,375
+loughborough university,england,all,all,total,total,13210
+loughborough university,england,All postgraduate,all,total,total,4000
+loughborough university,england,All postgraduate,full-time,total,total,1895
+loughborough university,england,All postgraduate,part-time,total,total,2105
+loughborough university,england,All postgraduate,all,domicile,total uk,2950
+loughborough university,england,All postgraduate,all,domicile,total non-uk,1050
+loughborough university,england,All undergraduate,all,total,total,9210
+loughborough university,england,All undergraduate,full-time,total,total,9015
+loughborough university,england,All undergraduate,part-time,total,total,195
+loughborough university,england,All undergraduate,all,domicile,total uk,8825
+loughborough university,england,All undergraduate,all,domicile,total non-uk,385
+loughborough university,england,all,full-time,total,total,10910
+loughborough university,england,all,part-time,total,total,2300
+loughborough university,england,all,all,domicile,total uk,11775
+loughborough university,england,all,all,domicile,total non-uk,1435
+university of luton,england,all,all,total,total,12315
+university of luton,england,All postgraduate,all,total,total,1770
+university of luton,england,All postgraduate,full-time,total,total,660
+university of luton,england,All postgraduate,part-time,total,total,1105
+university of luton,england,All postgraduate,all,domicile,total uk,950
+university of luton,england,All postgraduate,all,domicile,total non-uk,815
+university of luton,england,All undergraduate,all,total,total,10550
+university of luton,england,All undergraduate,full-time,total,total,6715
+university of luton,england,All undergraduate,part-time,total,total,3835
+university of luton,england,All undergraduate,all,domicile,total uk,8305
+university of luton,england,All undergraduate,all,domicile,total non-uk,2240
+university of luton,england,all,full-time,total,total,7375
+university of luton,england,all,part-time,total,total,4940
+university of luton,england,all,all,domicile,total uk,9255
+university of luton,england,all,all,domicile,total non-uk,3055
+university of manchester,england,all,all,total,total,26470
+university of manchester,england,All postgraduate,all,total,total,7125
+university of manchester,england,All postgraduate,full-time,total,total,3735
+university of manchester,england,All postgraduate,part-time,total,total,3395
+university of manchester,england,All postgraduate,all,domicile,total uk,4640
+university of manchester,england,All postgraduate,all,domicile,total non-uk,2485
+university of manchester,england,All undergraduate,all,total,total,19345
+university of manchester,england,All undergraduate,full-time,total,total,16410
+university of manchester,england,All undergraduate,part-time,total,total,2935
+university of manchester,england,All undergraduate,all,domicile,total uk,17965
+university of manchester,england,All undergraduate,all,domicile,total non-uk,1380
+university of manchester,england,all,full-time,total,total,20145
+university of manchester,england,all,part-time,total,total,6330
+university of manchester,england,all,all,domicile,total uk,22605
+university of manchester,england,all,all,domicile,total non-uk,3865
+the university of manchester institute of science & technology,england,all,all,total,total,6990
+the university of manchester institute of science & technology,england,All postgraduate,all,total,total,2235
+the university of manchester institute of science & technology,england,All postgraduate,full-time,total,total,1625
+the university of manchester institute of science & technology,england,All postgraduate,part-time,total,total,610
+the university of manchester institute of science & technology,england,All postgraduate,all,domicile,total uk,1090
+the university of manchester institute of science & technology,england,All postgraduate,all,domicile,total non-uk,1145
+the university of manchester institute of science & technology,england,All undergraduate,all,total,total,4755
+the university of manchester institute of science & technology,england,All undergraduate,full-time,total,total,4755
+the university of manchester institute of science & technology,england,All undergraduate,part-time,total,total,0
+the university of manchester institute of science & technology,england,All undergraduate,all,domicile,total uk,3850
+the university of manchester institute of science & technology,england,All undergraduate,all,domicile,total non-uk,905
+the university of manchester institute of science & technology,england,all,full-time,total,total,6380
+the university of manchester institute of science & technology,england,all,part-time,total,total,610
+the university of manchester institute of science & technology,england,all,all,domicile,total uk,4940
+the university of manchester institute of science & technology,england,all,all,domicile,total non-uk,2050
+the manchester metropolitan university,england,all,all,total,total,30325
+the manchester metropolitan university,england,All postgraduate,all,total,total,6410
+the manchester metropolitan university,england,All postgraduate,full-time,total,total,2210
+the manchester metropolitan university,england,All postgraduate,part-time,total,total,4200
+the manchester metropolitan university,england,All postgraduate,all,domicile,total uk,5915
+the manchester metropolitan university,england,All postgraduate,all,domicile,total non-uk,495
+the manchester metropolitan university,england,All undergraduate,all,total,total,23910
+the manchester metropolitan university,england,All undergraduate,full-time,total,total,18435
+the manchester metropolitan university,england,All undergraduate,part-time,total,total,5475
+the manchester metropolitan university,england,All undergraduate,all,domicile,total uk,22655
+the manchester metropolitan university,england,All undergraduate,all,domicile,total non-uk,1255
+the manchester metropolitan university,england,all,full-time,total,total,20645
+the manchester metropolitan university,england,all,part-time,total,total,9675
+the manchester metropolitan university,england,all,all,domicile,total uk,28570
+the manchester metropolitan university,england,all,all,domicile,total non-uk,1750
+middlesex university,england,all,all,total,total,24505
+middlesex university,england,All postgraduate,all,total,total,4735
+middlesex university,england,All postgraduate,full-time,total,total,1830
+middlesex university,england,All postgraduate,part-time,total,total,2905
+middlesex university,england,All postgraduate,all,domicile,total uk,3330
+middlesex university,england,All postgraduate,all,domicile,total non-uk,1405
+middlesex university,england,All undergraduate,all,total,total,19775
+middlesex university,england,All undergraduate,full-time,total,total,15420
+middlesex university,england,All undergraduate,part-time,total,total,4355
+middlesex university,england,All undergraduate,all,domicile,total uk,16200
+middlesex university,england,All undergraduate,all,domicile,total non-uk,3570
+middlesex university,england,all,full-time,total,total,17250
+middlesex university,england,all,part-time,total,total,7260
+middlesex university,england,all,all,domicile,total uk,19530
+middlesex university,england,all,all,domicile,total non-uk,4975
+the university of newcastle-upon-tyne,england,all,all,total,total,18175
+the university of newcastle-upon-tyne,england,All postgraduate,all,total,total,4950
+the university of newcastle-upon-tyne,england,All postgraduate,full-time,total,total,2625
+the university of newcastle-upon-tyne,england,All postgraduate,part-time,total,total,2325
+the university of newcastle-upon-tyne,england,All postgraduate,all,domicile,total uk,3320
+the university of newcastle-upon-tyne,england,All postgraduate,all,domicile,total non-uk,1625
+the university of newcastle-upon-tyne,england,All undergraduate,all,total,total,13230
+the university of newcastle-upon-tyne,england,All undergraduate,full-time,total,total,10145
+the university of newcastle-upon-tyne,england,All undergraduate,part-time,total,total,3085
+the university of newcastle-upon-tyne,england,All undergraduate,all,domicile,total uk,12345
+the university of newcastle-upon-tyne,england,All undergraduate,all,domicile,total non-uk,885
+the university of newcastle-upon-tyne,england,all,full-time,total,total,12770
+the university of newcastle-upon-tyne,england,all,part-time,total,total,5410
+the university of newcastle-upon-tyne,england,all,all,domicile,total uk,15665
+the university of newcastle-upon-tyne,england,all,all,domicile,total non-uk,2510
+newman college,england,all,all,total,total,1655
+newman college,england,All postgraduate,all,total,total,175
+newman college,england,All postgraduate,full-time,total,total,40
+newman college,england,All postgraduate,part-time,total,total,135
+newman college,england,All postgraduate,all,domicile,total uk,175
+newman college,england,All postgraduate,all,domicile,total non-uk,0
+newman college,england,All undergraduate,all,total,total,1480
+newman college,england,All undergraduate,full-time,total,total,1030
+newman college,england,All undergraduate,part-time,total,total,450
+newman college,england,All undergraduate,all,domicile,total uk,1390
+newman college,england,All undergraduate,all,domicile,total non-uk,90
+newman college,england,all,full-time,total,total,1070
+newman college,england,all,part-time,total,total,585
+newman college,england,all,all,domicile,total uk,1565
+newman college,england,all,all,domicile,total non-uk,90
+the university of north london,england,all,all,total,total,15640
+the university of north london,england,All postgraduate,all,total,total,2770
+the university of north london,england,All postgraduate,full-time,total,total,970
+the university of north london,england,All postgraduate,part-time,total,total,1800
+the university of north london,england,All postgraduate,all,domicile,total uk,2090
+the university of north london,england,All postgraduate,all,domicile,total non-uk,680
+the university of north london,england,All undergraduate,all,total,total,12865
+the university of north london,england,All undergraduate,full-time,total,total,8360
+the university of north london,england,All undergraduate,part-time,total,total,4505
+the university of north london,england,All undergraduate,all,domicile,total uk,10930
+the university of north london,england,All undergraduate,all,domicile,total non-uk,1940
+the university of north london,england,all,full-time,total,total,9330
+the university of north london,england,all,part-time,total,total,6305
+the university of north london,england,all,all,domicile,total uk,13020
+the university of north london,england,all,all,domicile,total non-uk,2620
+university college northampton,england,all,all,total,total,10740
+university college northampton,england,All postgraduate,all,total,total,1205
+university college northampton,england,All postgraduate,full-time,total,total,230
+university college northampton,england,All postgraduate,part-time,total,total,975
+university college northampton,england,All postgraduate,all,domicile,total uk,1080
+university college northampton,england,All postgraduate,all,domicile,total non-uk,120
+university college northampton,england,All undergraduate,all,total,total,9535
+university college northampton,england,All undergraduate,full-time,total,total,6810
+university college northampton,england,All undergraduate,part-time,total,total,2725
+university college northampton,england,All undergraduate,all,domicile,total uk,9050
+university college northampton,england,All undergraduate,all,domicile,total non-uk,485
+university college northampton,england,all,full-time,total,total,7040
+university college northampton,england,all,part-time,total,total,3700
+university college northampton,england,all,all,domicile,total uk,10130
+university college northampton,england,all,all,domicile,total non-uk,605
+northern school of contemporary dance,england,all,all,total,total,135
+northern school of contemporary dance,england,All postgraduate,all,total,total,0
+northern school of contemporary dance,england,All postgraduate,full-time,total,total,0
+northern school of contemporary dance,england,All postgraduate,part-time,total,total,0
+northern school of contemporary dance,england,All postgraduate,all,domicile,total uk,0
+northern school of contemporary dance,england,All postgraduate,all,domicile,total non-uk,0
+northern school of contemporary dance,england,All undergraduate,all,total,total,135
+northern school of contemporary dance,england,All undergraduate,full-time,total,total,135
+northern school of contemporary dance,england,All undergraduate,part-time,total,total,0
+northern school of contemporary dance,england,All undergraduate,all,domicile,total uk,90
+northern school of contemporary dance,england,All undergraduate,all,domicile,total non-uk,40
+northern school of contemporary dance,england,all,full-time,total,total,135
+northern school of contemporary dance,england,all,part-time,total,total,0
+northern school of contemporary dance,england,all,all,domicile,total uk,90
+northern school of contemporary dance,england,all,all,domicile,total non-uk,40
+the university of northumbria at newcastle,england,all,all,total,total,22045
+the university of northumbria at newcastle,england,All postgraduate,all,total,total,3755
+the university of northumbria at newcastle,england,All postgraduate,full-time,total,total,1145
+the university of northumbria at newcastle,england,All postgraduate,part-time,total,total,2610
+the university of northumbria at newcastle,england,All postgraduate,all,domicile,total uk,3080
+the university of northumbria at newcastle,england,All postgraduate,all,domicile,total non-uk,680
+the university of northumbria at newcastle,england,All undergraduate,all,total,total,18290
+the university of northumbria at newcastle,england,All undergraduate,full-time,total,total,13575
+the university of northumbria at newcastle,england,All undergraduate,part-time,total,total,4715
+the university of northumbria at newcastle,england,All undergraduate,all,domicile,total uk,17050
+the university of northumbria at newcastle,england,All undergraduate,all,domicile,total non-uk,1240
+the university of northumbria at newcastle,england,all,full-time,total,total,14720
+the university of northumbria at newcastle,england,all,part-time,total,total,7325
+the university of northumbria at newcastle,england,all,all,domicile,total uk,20130
+the university of northumbria at newcastle,england,all,all,domicile,total non-uk,1920
+norwich school of art and design,england,all,all,total,total,705
+norwich school of art and design,england,All postgraduate,all,total,total,35
+norwich school of art and design,england,All postgraduate,full-time,total,total,15
+norwich school of art and design,england,All postgraduate,part-time,total,total,20
+norwich school of art and design,england,All postgraduate,all,domicile,total uk,35
+norwich school of art and design,england,All postgraduate,all,domicile,total non-uk,0
+norwich school of art and design,england,All undergraduate,all,total,total,670
+norwich school of art and design,england,All undergraduate,full-time,total,total,660
+norwich school of art and design,england,All undergraduate,part-time,total,total,10
+norwich school of art and design,england,All undergraduate,all,domicile,total uk,650
+norwich school of art and design,england,All undergraduate,all,domicile,total non-uk,20
+norwich school of art and design,england,all,full-time,total,total,675
+norwich school of art and design,england,all,part-time,total,total,30
+norwich school of art and design,england,all,all,domicile,total uk,685
+norwich school of art and design,england,all,all,domicile,total non-uk,20
+the nottingham trent university,england,all,all,total,total,21635
+the nottingham trent university,england,All postgraduate,all,total,total,4435
+the nottingham trent university,england,All postgraduate,full-time,total,total,1630
+the nottingham trent university,england,All postgraduate,part-time,total,total,2805
+the nottingham trent university,england,All postgraduate,all,domicile,total uk,3965
+the nottingham trent university,england,All postgraduate,all,domicile,total non-uk,470
+the nottingham trent university,england,All undergraduate,all,total,total,17200
+the nottingham trent university,england,All undergraduate,full-time,total,total,13500
+the nottingham trent university,england,All undergraduate,part-time,total,total,3700
+the nottingham trent university,england,All undergraduate,all,domicile,total uk,16540
+the nottingham trent university,england,All undergraduate,all,domicile,total non-uk,665
+the nottingham trent university,england,all,full-time,total,total,15130
+the nottingham trent university,england,all,part-time,total,total,6505
+the nottingham trent university,england,all,all,domicile,total uk,20505
+the nottingham trent university,england,all,all,domicile,total non-uk,1135
+the university of nottingham,england,all,all,total,total,26585
+the university of nottingham,england,All postgraduate,all,total,total,7390
+the university of nottingham,england,All postgraduate,full-time,total,total,3455
+the university of nottingham,england,All postgraduate,part-time,total,total,3935
+the university of nottingham,england,All postgraduate,all,domicile,total uk,4810
+the university of nottingham,england,All postgraduate,all,domicile,total non-uk,2580
+the university of nottingham,england,All undergraduate,all,total,total,19195
+the university of nottingham,england,All undergraduate,full-time,total,total,14315
+the university of nottingham,england,All undergraduate,part-time,total,total,4880
+the university of nottingham,england,All undergraduate,all,domicile,total uk,17610
+the university of nottingham,england,All undergraduate,all,domicile,total non-uk,1585
+the university of nottingham,england,all,full-time,total,total,17770
+the university of nottingham,england,all,part-time,total,total,8815
+the university of nottingham,england,all,all,domicile,total uk,22420
+the university of nottingham,england,all,all,domicile,total non-uk,4165
+the open university,england,all,all,total,total,145990
+the open university,england,All postgraduate,all,total,total,19175
+the open university,england,All postgraduate,full-time,total,total,495
+the open university,england,All postgraduate,part-time,total,total,18680
+the open university,england,All postgraduate,all,domicile,total uk,19175
+the open university,england,All postgraduate,all,domicile,total non-uk,0
+the open university,england,All undergraduate,all,total,total,126815
+the open university,england,All undergraduate,full-time,total,total,0
+the open university,england,All undergraduate,part-time,total,total,126815
+the open university,england,All undergraduate,all,domicile,total uk,126815
+the open university,england,All undergraduate,all,domicile,total non-uk,0
+the open university,england,all,full-time,total,total,495
+the open university,england,all,part-time,total,total,145495
+the open university,england,all,all,domicile,total uk,145990
+the open university,england,all,all,domicile,total non-uk,0
+oxford brookes university,england,all,all,total,total,15570
+oxford brookes university,england,All postgraduate,all,total,total,3885
+oxford brookes university,england,All postgraduate,full-time,total,total,1685
+oxford brookes university,england,All postgraduate,part-time,total,total,2200
+oxford brookes university,england,All postgraduate,all,domicile,total uk,2930
+oxford brookes university,england,All postgraduate,all,domicile,total non-uk,955
+oxford brookes university,england,All undergraduate,all,total,total,11685
+oxford brookes university,england,All undergraduate,full-time,total,total,8850
+oxford brookes university,england,All undergraduate,part-time,total,total,2835
+oxford brookes university,england,All undergraduate,all,domicile,total uk,9970
+oxford brookes university,england,All undergraduate,all,domicile,total non-uk,1715
+oxford brookes university,england,all,full-time,total,total,10535
+oxford brookes university,england,all,part-time,total,total,5035
+oxford brookes university,england,all,all,domicile,total uk,12900
+oxford brookes university,england,all,all,domicile,total non-uk,2670
+the university of oxford,england,all,all,total,total,22155
+the university of oxford,england,All postgraduate,all,total,total,6305
+the university of oxford,england,All postgraduate,full-time,total,total,4500
+the university of oxford,england,All postgraduate,part-time,total,total,1805
+the university of oxford,england,All postgraduate,all,domicile,total uk,3130
+the university of oxford,england,All postgraduate,all,domicile,total non-uk,3175
+the university of oxford,england,All undergraduate,all,total,total,15850
+the university of oxford,england,All undergraduate,full-time,total,total,11415
+the university of oxford,england,All undergraduate,part-time,total,total,4435
+the university of oxford,england,All undergraduate,all,domicile,total uk,14625
+the university of oxford,england,All undergraduate,all,domicile,total non-uk,1225
+the university of oxford,england,all,full-time,total,total,15915
+the university of oxford,england,all,part-time,total,total,6240
+the university of oxford,england,all,all,domicile,total uk,17755
+the university of oxford,england,all,all,domicile,total non-uk,4400
+the university of plymouth,england,all,all,total,total,23810
+the university of plymouth,england,All postgraduate,all,total,total,3160
+the university of plymouth,england,All postgraduate,full-time,total,total,790
+the university of plymouth,england,All postgraduate,part-time,total,total,2370
+the university of plymouth,england,All postgraduate,all,domicile,total uk,2825
+the university of plymouth,england,All postgraduate,all,domicile,total non-uk,335
+the university of plymouth,england,All undergraduate,all,total,total,20650
+the university of plymouth,england,All undergraduate,full-time,total,total,14865
+the university of plymouth,england,All undergraduate,part-time,total,total,5785
+the university of plymouth,england,All undergraduate,all,domicile,total uk,19315
+the university of plymouth,england,All undergraduate,all,domicile,total non-uk,1335
+the university of plymouth,england,all,full-time,total,total,15655
+the university of plymouth,england,all,part-time,total,total,8155
+the university of plymouth,england,all,all,domicile,total uk,22140
+the university of plymouth,england,all,all,domicile,total non-uk,1670
+the university of portsmouth,england,all,all,total,total,17265
+the university of portsmouth,england,All postgraduate,all,total,total,3520
+the university of portsmouth,england,All postgraduate,full-time,total,total,1110
+the university of portsmouth,england,All postgraduate,part-time,total,total,2410
+the university of portsmouth,england,All postgraduate,all,domicile,total uk,2725
+the university of portsmouth,england,All postgraduate,all,domicile,total non-uk,795
+the university of portsmouth,england,All undergraduate,all,total,total,13740
+the university of portsmouth,england,All undergraduate,full-time,total,total,11200
+the university of portsmouth,england,All undergraduate,part-time,total,total,2540
+the university of portsmouth,england,All undergraduate,all,domicile,total uk,11815
+the university of portsmouth,england,All undergraduate,all,domicile,total non-uk,1925
+the university of portsmouth,england,all,full-time,total,total,12310
+the university of portsmouth,england,all,part-time,total,total,4950
+the university of portsmouth,england,all,all,domicile,total uk,14540
+the university of portsmouth,england,all,all,domicile,total non-uk,2720
+queen mary and westfield college,england,all,all,total,total,9255
+queen mary and westfield college,england,All postgraduate,all,total,total,2455
+queen mary and westfield college,england,All postgraduate,full-time,total,total,1620
+queen mary and westfield college,england,All postgraduate,part-time,total,total,835
+queen mary and westfield college,england,All postgraduate,all,domicile,total uk,1630
+queen mary and westfield college,england,All postgraduate,all,domicile,total non-uk,825
+queen mary and westfield college,england,All undergraduate,all,total,total,6800
+queen mary and westfield college,england,All undergraduate,full-time,total,total,6700
+queen mary and westfield college,england,All undergraduate,part-time,total,total,100
+queen mary and westfield college,england,All undergraduate,all,domicile,total uk,6050
+queen mary and westfield college,england,All undergraduate,all,domicile,total non-uk,750
+queen mary and westfield college,england,all,full-time,total,total,8320
+queen mary and westfield college,england,all,part-time,total,total,935
+queen mary and westfield college,england,all,all,domicile,total uk,7680
+queen mary and westfield college,england,all,all,domicile,total non-uk,1575
+ravensbourne college of design and communication,england,all,all,total,total,765
+ravensbourne college of design and communication,england,All postgraduate,all,total,total,20
+ravensbourne college of design and communication,england,All postgraduate,full-time,total,total,10
+ravensbourne college of design and communication,england,All postgraduate,part-time,total,total,5
+ravensbourne college of design and communication,england,All postgraduate,all,domicile,total uk,15
+ravensbourne college of design and communication,england,All postgraduate,all,domicile,total non-uk,5
+ravensbourne college of design and communication,england,All undergraduate,all,total,total,750
+ravensbourne college of design and communication,england,All undergraduate,full-time,total,total,750
+ravensbourne college of design and communication,england,All undergraduate,part-time,total,total,0
+ravensbourne college of design and communication,england,All undergraduate,all,domicile,total uk,630
+ravensbourne college of design and communication,england,All undergraduate,all,domicile,total non-uk,115
+ravensbourne college of design and communication,england,all,full-time,total,total,760
+ravensbourne college of design and communication,england,all,part-time,total,total,5
+ravensbourne college of design and communication,england,all,all,domicile,total uk,645
+ravensbourne college of design and communication,england,all,all,domicile,total non-uk,120
+the university of reading,england,all,all,total,total,14320
+the university of reading,england,All postgraduate,all,total,total,5320
+the university of reading,england,All postgraduate,full-time,total,total,2195
+the university of reading,england,All postgraduate,part-time,total,total,3120
+the university of reading,england,All postgraduate,all,domicile,total uk,3660
+the university of reading,england,All postgraduate,all,domicile,total non-uk,1660
+the university of reading,england,All undergraduate,all,total,total,9005
+the university of reading,england,All undergraduate,full-time,total,total,7020
+the university of reading,england,All undergraduate,part-time,total,total,1985
+the university of reading,england,All undergraduate,all,domicile,total uk,8245
+the university of reading,england,All undergraduate,all,domicile,total non-uk,760
+the university of reading,england,all,full-time,total,total,9215
+the university of reading,england,all,part-time,total,total,5105
+the university of reading,england,all,all,domicile,total uk,11905
+the university of reading,england,all,all,domicile,total non-uk,2420
+"university of surrey, roehampton",england,all,all,total,total,7565
+"university of surrey, roehampton",england,All postgraduate,all,total,total,1350
+"university of surrey, roehampton",england,All postgraduate,full-time,total,total,660
+"university of surrey, roehampton",england,All postgraduate,part-time,total,total,690
+"university of surrey, roehampton",england,All postgraduate,all,domicile,total uk,1185
+"university of surrey, roehampton",england,All postgraduate,all,domicile,total non-uk,170
+"university of surrey, roehampton",england,All undergraduate,all,total,total,6210
+"university of surrey, roehampton",england,All undergraduate,full-time,total,total,5255
+"university of surrey, roehampton",england,All undergraduate,part-time,total,total,960
+"university of surrey, roehampton",england,All undergraduate,all,domicile,total uk,5710
+"university of surrey, roehampton",england,All undergraduate,all,domicile,total non-uk,500
+"university of surrey, roehampton",england,all,full-time,total,total,5915
+"university of surrey, roehampton",england,all,part-time,total,total,1650
+"university of surrey, roehampton",england,all,all,domicile,total uk,6895
+"university of surrey, roehampton",england,all,all,domicile,total non-uk,670
+rose bruford college,england,all,all,total,total,950
+rose bruford college,england,All postgraduate,all,total,total,55
+rose bruford college,england,All postgraduate,full-time,total,total,15
+rose bruford college,england,All postgraduate,part-time,total,total,40
+rose bruford college,england,All postgraduate,all,domicile,total uk,45
+rose bruford college,england,All postgraduate,all,domicile,total non-uk,10
+rose bruford college,england,All undergraduate,all,total,total,895
+rose bruford college,england,All undergraduate,full-time,total,total,575
+rose bruford college,england,All undergraduate,part-time,total,total,320
+rose bruford college,england,All undergraduate,all,domicile,total uk,740
+rose bruford college,england,All undergraduate,all,domicile,total non-uk,160
+rose bruford college,england,all,full-time,total,total,590
+rose bruford college,england,all,part-time,total,total,360
+rose bruford college,england,all,all,domicile,total uk,785
+rose bruford college,england,all,all,domicile,total non-uk,170
+royal academy of music,england,all,all,total,total,605
+royal academy of music,england,All postgraduate,all,total,total,270
+royal academy of music,england,All postgraduate,full-time,total,total,270
+royal academy of music,england,All postgraduate,part-time,total,total,0
+royal academy of music,england,All postgraduate,all,domicile,total uk,120
+royal academy of music,england,All postgraduate,all,domicile,total non-uk,150
+royal academy of music,england,All undergraduate,all,total,total,335
+royal academy of music,england,All undergraduate,full-time,total,total,335
+royal academy of music,england,All undergraduate,part-time,total,total,0
+royal academy of music,england,All undergraduate,all,domicile,total uk,220
+royal academy of music,england,All undergraduate,all,domicile,total non-uk,115
+royal academy of music,england,all,full-time,total,total,605
+royal academy of music,england,all,part-time,total,total,0
+royal academy of music,england,all,all,domicile,total uk,340
+royal academy of music,england,all,all,domicile,total non-uk,265
+royal college of art,england,all,all,total,total,825
+royal college of art,england,All postgraduate,all,total,total,825
+royal college of art,england,All postgraduate,full-time,total,total,770
+royal college of art,england,All postgraduate,part-time,total,total,50
+royal college of art,england,All postgraduate,all,domicile,total uk,590
+royal college of art,england,All postgraduate,all,domicile,total non-uk,230
+royal college of art,england,All undergraduate,all,total,total,0
+royal college of art,england,All undergraduate,full-time,total,total,0
+royal college of art,england,All undergraduate,part-time,total,total,0
+royal college of art,england,All undergraduate,all,domicile,total uk,0
+royal college of art,england,All undergraduate,all,domicile,total non-uk,0
+royal college of art,england,all,full-time,total,total,770
+royal college of art,england,all,part-time,total,total,50
+royal college of art,england,all,all,domicile,total uk,590
+royal college of art,england,all,all,domicile,total non-uk,230
+royal college of music,england,all,all,total,total,600
+royal college of music,england,All postgraduate,all,total,total,215
+royal college of music,england,All postgraduate,full-time,total,total,195
+royal college of music,england,All postgraduate,part-time,total,total,20
+royal college of music,england,All postgraduate,all,domicile,total uk,115
+royal college of music,england,All postgraduate,all,domicile,total non-uk,100
+royal college of music,england,All undergraduate,all,total,total,385
+royal college of music,england,All undergraduate,full-time,total,total,385
+royal college of music,england,All undergraduate,part-time,total,total,0
+royal college of music,england,All undergraduate,all,domicile,total uk,285
+royal college of music,england,All undergraduate,all,domicile,total non-uk,100
+royal college of music,england,all,full-time,total,total,580
+royal college of music,england,all,part-time,total,total,20
+royal college of music,england,all,all,domicile,total uk,400
+royal college of music,england,all,all,domicile,total non-uk,200
+royal holloway and bedford new college,england,all,all,total,total,5995
+royal holloway and bedford new college,england,All postgraduate,all,total,total,1780
+royal holloway and bedford new college,england,All postgraduate,full-time,total,total,1200
+royal holloway and bedford new college,england,All postgraduate,part-time,total,total,580
+royal holloway and bedford new college,england,All postgraduate,all,domicile,total uk,1180
+royal holloway and bedford new college,england,All postgraduate,all,domicile,total non-uk,600
+royal holloway and bedford new college,england,All undergraduate,all,total,total,4215
+royal holloway and bedford new college,england,All undergraduate,full-time,total,total,4165
+royal holloway and bedford new college,england,All undergraduate,part-time,total,total,50
+royal holloway and bedford new college,england,All undergraduate,all,domicile,total uk,3465
+royal holloway and bedford new college,england,All undergraduate,all,domicile,total non-uk,745
+royal holloway and bedford new college,england,all,full-time,total,total,5365
+royal holloway and bedford new college,england,all,part-time,total,total,630
+royal holloway and bedford new college,england,all,all,domicile,total uk,4645
+royal holloway and bedford new college,england,all,all,domicile,total non-uk,1345
+royal northern college of music,england,all,all,total,total,600
+royal northern college of music,england,All postgraduate,all,total,total,155
+royal northern college of music,england,All postgraduate,full-time,total,total,155
+royal northern college of music,england,All postgraduate,part-time,total,total,0
+royal northern college of music,england,All postgraduate,all,domicile,total uk,105
+royal northern college of music,england,All postgraduate,all,domicile,total non-uk,50
+royal northern college of music,england,All undergraduate,all,total,total,445
+royal northern college of music,england,All undergraduate,full-time,total,total,445
+royal northern college of music,england,All undergraduate,part-time,total,total,0
+royal northern college of music,england,All undergraduate,all,domicile,total uk,380
+royal northern college of music,england,All undergraduate,all,domicile,total non-uk,65
+royal northern college of music,england,all,full-time,total,total,600
+royal northern college of music,england,all,part-time,total,total,0
+royal northern college of music,england,all,all,domicile,total uk,485
+royal northern college of music,england,all,all,domicile,total non-uk,115
+the royal veterinary college,england,all,all,total,total,905
+the royal veterinary college,england,All postgraduate,all,total,total,225
+the royal veterinary college,england,All postgraduate,full-time,total,total,110
+the royal veterinary college,england,All postgraduate,part-time,total,total,115
+the royal veterinary college,england,All postgraduate,all,domicile,total uk,150
+the royal veterinary college,england,All postgraduate,all,domicile,total non-uk,75
+the royal veterinary college,england,All undergraduate,all,total,total,680
+the royal veterinary college,england,All undergraduate,full-time,total,total,665
+the royal veterinary college,england,All undergraduate,part-time,total,total,15
+the royal veterinary college,england,All undergraduate,all,domicile,total uk,565
+the royal veterinary college,england,All undergraduate,all,domicile,total non-uk,115
+the royal veterinary college,england,all,full-time,total,total,775
+the royal veterinary college,england,all,part-time,total,total,130
+the royal veterinary college,england,all,all,domicile,total uk,715
+the royal veterinary college,england,all,all,domicile,total non-uk,190
+st george's hospital medical school,england,all,all,total,total,3405
+st george's hospital medical school,england,All postgraduate,all,total,total,685
+st george's hospital medical school,england,All postgraduate,full-time,total,total,55
+st george's hospital medical school,england,All postgraduate,part-time,total,total,630
+st george's hospital medical school,england,All postgraduate,all,domicile,total uk,605
+st george's hospital medical school,england,All postgraduate,all,domicile,total non-uk,80
+st george's hospital medical school,england,All undergraduate,all,total,total,2720
+st george's hospital medical school,england,All undergraduate,full-time,total,total,1305
+st george's hospital medical school,england,All undergraduate,part-time,total,total,1415
+st george's hospital medical school,england,All undergraduate,all,domicile,total uk,2615
+st george's hospital medical school,england,All undergraduate,all,domicile,total non-uk,105
+st george's hospital medical school,england,all,full-time,total,total,1360
+st george's hospital medical school,england,all,part-time,total,total,2045
+st george's hospital medical school,england,all,all,domicile,total uk,3220
+st george's hospital medical school,england,all,all,domicile,total non-uk,185
+college of st mark and st john,england,all,all,total,total,4260
+college of st mark and st john,england,All postgraduate,all,total,total,1950
+college of st mark and st john,england,All postgraduate,full-time,total,total,290
+college of st mark and st john,england,All postgraduate,part-time,total,total,1660
+college of st mark and st john,england,All postgraduate,all,domicile,total uk,1925
+college of st mark and st john,england,All postgraduate,all,domicile,total non-uk,25
+college of st mark and st john,england,All undergraduate,all,total,total,2310
+college of st mark and st john,england,All undergraduate,full-time,total,total,2275
+college of st mark and st john,england,All undergraduate,part-time,total,total,35
+college of st mark and st john,england,All undergraduate,all,domicile,total uk,2015
+college of st mark and st john,england,All undergraduate,all,domicile,total non-uk,300
+college of st mark and st john,england,all,full-time,total,total,2565
+college of st mark and st john,england,all,part-time,total,total,1695
+college of st mark and st john,england,all,all,domicile,total uk,3940
+college of st mark and st john,england,all,all,domicile,total non-uk,325
+st martin's college,england,all,all,total,total,9270
+st martin's college,england,All postgraduate,all,total,total,2975
+st martin's college,england,All postgraduate,full-time,total,total,625
+st martin's college,england,All postgraduate,part-time,total,total,2350
+st martin's college,england,All postgraduate,all,domicile,total uk,2680
+st martin's college,england,All postgraduate,all,domicile,total non-uk,295
+st martin's college,england,All undergraduate,all,total,total,6290
+st martin's college,england,All undergraduate,full-time,total,total,3925
+st martin's college,england,All undergraduate,part-time,total,total,2365
+st martin's college,england,All undergraduate,all,domicile,total uk,6205
+st martin's college,england,All undergraduate,all,domicile,total non-uk,90
+st martin's college,england,all,full-time,total,total,4550
+st martin's college,england,all,part-time,total,total,4715
+st martin's college,england,all,all,domicile,total uk,8885
+st martin's college,england,all,all,domicile,total non-uk,385
+st mary's college,england,all,all,total,total,2990
+st mary's college,england,All postgraduate,all,total,total,430
+st mary's college,england,All postgraduate,full-time,total,total,170
+st mary's college,england,All postgraduate,part-time,total,total,260
+st mary's college,england,All postgraduate,all,domicile,total uk,405
+st mary's college,england,All postgraduate,all,domicile,total non-uk,20
+st mary's college,england,All undergraduate,all,total,total,2560
+st mary's college,england,All undergraduate,full-time,total,total,2135
+st mary's college,england,All undergraduate,part-time,total,total,425
+st mary's college,england,All undergraduate,all,domicile,total uk,2320
+st mary's college,england,All undergraduate,all,domicile,total non-uk,235
+st mary's college,england,all,full-time,total,total,2305
+st mary's college,england,all,part-time,total,total,685
+st mary's college,england,all,all,domicile,total uk,2725
+st mary's college,england,all,all,domicile,total non-uk,255
+the university of salford,england,all,all,total,total,21610
+the university of salford,england,All postgraduate,all,total,total,4780
+the university of salford,england,All postgraduate,full-time,total,total,1235
+the university of salford,england,All postgraduate,part-time,total,total,3545
+the university of salford,england,All postgraduate,all,domicile,total uk,3495
+the university of salford,england,All postgraduate,all,domicile,total non-uk,1285
+the university of salford,england,All undergraduate,all,total,total,16830
+the university of salford,england,All undergraduate,full-time,total,total,12125
+the university of salford,england,All undergraduate,part-time,total,total,4705
+the university of salford,england,All undergraduate,all,domicile,total uk,15285
+the university of salford,england,All undergraduate,all,domicile,total non-uk,1545
+the university of salford,england,all,full-time,total,total,13360
+the university of salford,england,all,part-time,total,total,8250
+the university of salford,england,all,all,domicile,total uk,18780
+the university of salford,england,all,all,domicile,total non-uk,2830
+the school of oriental and african studies,england,all,all,total,total,3650
+the school of oriental and african studies,england,All postgraduate,all,total,total,1870
+the school of oriental and african studies,england,All postgraduate,full-time,total,total,1140
+the school of oriental and african studies,england,All postgraduate,part-time,total,total,730
+the school of oriental and african studies,england,All postgraduate,all,domicile,total uk,830
+the school of oriental and african studies,england,All postgraduate,all,domicile,total non-uk,1040
+the school of oriental and african studies,england,All undergraduate,all,total,total,1780
+the school of oriental and african studies,england,All undergraduate,full-time,total,total,1765
+the school of oriental and african studies,england,All undergraduate,part-time,total,total,15
+the school of oriental and african studies,england,All undergraduate,all,domicile,total uk,1050
+the school of oriental and african studies,england,All undergraduate,all,domicile,total non-uk,730
+the school of oriental and african studies,england,all,full-time,total,total,2905
+the school of oriental and african studies,england,all,part-time,total,total,745
+the school of oriental and african studies,england,all,all,domicile,total uk,1880
+the school of oriental and african studies,england,all,all,domicile,total non-uk,1770
+the school of pharmacy,england,all,all,total,total,1145
+the school of pharmacy,england,All postgraduate,all,total,total,600
+the school of pharmacy,england,All postgraduate,full-time,total,total,105
+the school of pharmacy,england,All postgraduate,part-time,total,total,500
+the school of pharmacy,england,All postgraduate,all,domicile,total uk,550
+the school of pharmacy,england,All postgraduate,all,domicile,total non-uk,50
+the school of pharmacy,england,All undergraduate,all,total,total,545
+the school of pharmacy,england,All undergraduate,full-time,total,total,535
+the school of pharmacy,england,All undergraduate,part-time,total,total,5
+the school of pharmacy,england,All undergraduate,all,domicile,total uk,435
+the school of pharmacy,england,All undergraduate,all,domicile,total non-uk,105
+the school of pharmacy,england,all,full-time,total,total,640
+the school of pharmacy,england,all,part-time,total,total,505
+the school of pharmacy,england,all,all,domicile,total uk,985
+the school of pharmacy,england,all,all,domicile,total non-uk,155
+sheffield hallam university,england,all,all,total,total,24475
+sheffield hallam university,england,All postgraduate,all,total,total,5185
+sheffield hallam university,england,All postgraduate,full-time,total,total,1425
+sheffield hallam university,england,All postgraduate,part-time,total,total,3760
+sheffield hallam university,england,All postgraduate,all,domicile,total uk,4230
+sheffield hallam university,england,All postgraduate,all,domicile,total non-uk,955
+sheffield hallam university,england,All undergraduate,all,total,total,19295
+sheffield hallam university,england,All undergraduate,full-time,total,total,15765
+sheffield hallam university,england,All undergraduate,part-time,total,total,3530
+sheffield hallam university,england,All undergraduate,all,domicile,total uk,18430
+sheffield hallam university,england,All undergraduate,all,domicile,total non-uk,860
+sheffield hallam university,england,all,full-time,total,total,17190
+sheffield hallam university,england,all,part-time,total,total,7290
+sheffield hallam university,england,all,all,domicile,total uk,22660
+sheffield hallam university,england,all,all,domicile,total non-uk,1815
+the university of sheffield,england,all,all,total,total,23575
+the university of sheffield,england,All postgraduate,all,total,total,6385
+the university of sheffield,england,All postgraduate,full-time,total,total,3635
+the university of sheffield,england,All postgraduate,part-time,total,total,2755
+the university of sheffield,england,All postgraduate,all,domicile,total uk,4485
+the university of sheffield,england,All postgraduate,all,domicile,total non-uk,1905
+the university of sheffield,england,All undergraduate,all,total,total,17185
+the university of sheffield,england,All undergraduate,full-time,total,total,14585
+the university of sheffield,england,All undergraduate,part-time,total,total,2600
+the university of sheffield,england,All undergraduate,all,domicile,total uk,16105
+the university of sheffield,england,All undergraduate,all,domicile,total non-uk,1080
+the university of sheffield,england,all,full-time,total,total,18220
+the university of sheffield,england,all,part-time,total,total,5355
+the university of sheffield,england,all,all,domicile,total uk,20590
+the university of sheffield,england,all,all,domicile,total non-uk,2985
+south bank university,england,all,all,total,total,20375
+south bank university,england,All postgraduate,all,total,total,4770
+south bank university,england,All postgraduate,full-time,total,total,1415
+south bank university,england,All postgraduate,part-time,total,total,3355
+south bank university,england,All postgraduate,all,domicile,total uk,4240
+south bank university,england,All postgraduate,all,domicile,total non-uk,530
+south bank university,england,All undergraduate,all,total,total,15605
+south bank university,england,All undergraduate,full-time,total,total,9970
+south bank university,england,All undergraduate,part-time,total,total,5635
+south bank university,england,All undergraduate,all,domicile,total uk,14515
+south bank university,england,All undergraduate,all,domicile,total non-uk,1090
+south bank university,england,all,full-time,total,total,11385
+south bank university,england,all,part-time,total,total,8990
+south bank university,england,all,all,domicile,total uk,18755
+south bank university,england,all,all,domicile,total non-uk,1620
+southampton institute,england,all,all,total,total,10815
+southampton institute,england,All postgraduate,all,total,total,665
+southampton institute,england,All postgraduate,full-time,total,total,135
+southampton institute,england,All postgraduate,part-time,total,total,530
+southampton institute,england,All postgraduate,all,domicile,total uk,545
+southampton institute,england,All postgraduate,all,domicile,total non-uk,120
+southampton institute,england,All undergraduate,all,total,total,10155
+southampton institute,england,All undergraduate,full-time,total,total,8055
+southampton institute,england,All undergraduate,part-time,total,total,2100
+southampton institute,england,All undergraduate,all,domicile,total uk,9345
+southampton institute,england,All undergraduate,all,domicile,total non-uk,810
+southampton institute,england,all,full-time,total,total,8190
+southampton institute,england,all,part-time,total,total,2630
+southampton institute,england,all,all,domicile,total uk,9890
+southampton institute,england,all,all,domicile,total non-uk,930
+the university of southampton,england,all,all,total,total,23155
+the university of southampton,england,All postgraduate,all,total,total,5255
+the university of southampton,england,All postgraduate,full-time,total,total,2555
+the university of southampton,england,All postgraduate,part-time,total,total,2705
+the university of southampton,england,All postgraduate,all,domicile,total uk,3600
+the university of southampton,england,All postgraduate,all,domicile,total non-uk,1655
+the university of southampton,england,All undergraduate,all,total,total,17900
+the university of southampton,england,All undergraduate,full-time,total,total,13045
+the university of southampton,england,All undergraduate,part-time,total,total,4850
+the university of southampton,england,All undergraduate,all,domicile,total uk,17150
+the university of southampton,england,All undergraduate,all,domicile,total non-uk,745
+the university of southampton,england,all,full-time,total,total,15600
+the university of southampton,england,all,part-time,total,total,7555
+the university of southampton,england,all,all,domicile,total uk,20750
+the university of southampton,england,all,all,domicile,total non-uk,2400
+staffordshire university,england,all,all,total,total,17750
+staffordshire university,england,All postgraduate,all,total,total,2040
+staffordshire university,england,All postgraduate,full-time,total,total,635
+staffordshire university,england,All postgraduate,part-time,total,total,1405
+staffordshire university,england,All postgraduate,all,domicile,total uk,1710
+staffordshire university,england,All postgraduate,all,domicile,total non-uk,330
+staffordshire university,england,All undergraduate,all,total,total,15710
+staffordshire university,england,All undergraduate,full-time,total,total,11600
+staffordshire university,england,All undergraduate,part-time,total,total,4110
+staffordshire university,england,All undergraduate,all,domicile,total uk,14775
+staffordshire university,england,All undergraduate,all,domicile,total non-uk,935
+staffordshire university,england,all,full-time,total,total,12235
+staffordshire university,england,all,part-time,total,total,5515
+staffordshire university,england,all,all,domicile,total uk,16485
+staffordshire university,england,all,all,domicile,total non-uk,1265
+the university of sunderland,england,all,all,total,total,12525
+the university of sunderland,england,All postgraduate,all,total,total,1935
+the university of sunderland,england,All postgraduate,full-time,total,total,1090
+the university of sunderland,england,All postgraduate,part-time,total,total,845
+the university of sunderland,england,All postgraduate,all,domicile,total uk,1480
+the university of sunderland,england,All postgraduate,all,domicile,total non-uk,455
+the university of sunderland,england,All undergraduate,all,total,total,10590
+the university of sunderland,england,All undergraduate,full-time,total,total,7685
+the university of sunderland,england,All undergraduate,part-time,total,total,2905
+the university of sunderland,england,All undergraduate,all,domicile,total uk,9700
+the university of sunderland,england,All undergraduate,all,domicile,total non-uk,890
+the university of sunderland,england,all,full-time,total,total,8775
+the university of sunderland,england,all,part-time,total,total,3750
+the university of sunderland,england,all,all,domicile,total uk,11180
+the university of sunderland,england,all,all,domicile,total non-uk,1345
+"the surrey institute of art and design, university college",england,all,all,total,total,2760
+"the surrey institute of art and design, university college",england,All postgraduate,all,total,total,80
+"the surrey institute of art and design, university college",england,All postgraduate,full-time,total,total,25
+"the surrey institute of art and design, university college",england,All postgraduate,part-time,total,total,50
+"the surrey institute of art and design, university college",england,All postgraduate,all,domicile,total uk,50
+"the surrey institute of art and design, university college",england,All postgraduate,all,domicile,total non-uk,30
+"the surrey institute of art and design, university college",england,All undergraduate,all,total,total,2685
+"the surrey institute of art and design, university college",england,All undergraduate,full-time,total,total,2590
+"the surrey institute of art and design, university college",england,All undergraduate,part-time,total,total,95
+"the surrey institute of art and design, university college",england,All undergraduate,all,domicile,total uk,2315
+"the surrey institute of art and design, university college",england,All undergraduate,all,domicile,total non-uk,370
+"the surrey institute of art and design, university college",england,all,full-time,total,total,2615
+"the surrey institute of art and design, university college",england,all,part-time,total,total,145
+"the surrey institute of art and design, university college",england,all,all,domicile,total uk,2365
+"the surrey institute of art and design, university college",england,all,all,domicile,total non-uk,400
+the university of surrey,england,all,all,total,total,13670
+the university of surrey,england,All postgraduate,all,total,total,5085
+the university of surrey,england,All postgraduate,full-time,total,total,2160
+the university of surrey,england,All postgraduate,part-time,total,total,2925
+the university of surrey,england,All postgraduate,all,domicile,total uk,2965
+the university of surrey,england,All postgraduate,all,domicile,total non-uk,2115
+the university of surrey,england,All undergraduate,all,total,total,8585
+the university of surrey,england,All undergraduate,full-time,total,total,5565
+the university of surrey,england,All undergraduate,part-time,total,total,3020
+the university of surrey,england,All undergraduate,all,domicile,total uk,7545
+the university of surrey,england,All undergraduate,all,domicile,total non-uk,1040
+the university of surrey,england,all,full-time,total,total,7725
+the university of surrey,england,all,part-time,total,total,5945
+the university of surrey,england,all,all,domicile,total uk,10510
+the university of surrey,england,all,all,domicile,total non-uk,3155
+the university of sussex,england,all,all,total,total,11635
+the university of sussex,england,All postgraduate,all,total,total,3015
+the university of sussex,england,All postgraduate,full-time,total,total,1625
+the university of sussex,england,All postgraduate,part-time,total,total,1390
+the university of sussex,england,All postgraduate,all,domicile,total uk,1950
+the university of sussex,england,All postgraduate,all,domicile,total non-uk,1065
+the university of sussex,england,All undergraduate,all,total,total,8625
+the university of sussex,england,All undergraduate,full-time,total,total,6520
+the university of sussex,england,All undergraduate,part-time,total,total,2105
+the university of sussex,england,All undergraduate,all,domicile,total uk,7640
+the university of sussex,england,All undergraduate,all,domicile,total non-uk,980
+the university of sussex,england,all,full-time,total,total,8145
+the university of sussex,england,all,part-time,total,total,3495
+the university of sussex,england,all,all,domicile,total uk,9590
+the university of sussex,england,all,all,domicile,total non-uk,2045
+the university of teesside,england,all,all,total,total,16090
+the university of teesside,england,All postgraduate,all,total,total,1745
+the university of teesside,england,All postgraduate,full-time,total,total,555
+the university of teesside,england,All postgraduate,part-time,total,total,1190
+the university of teesside,england,All postgraduate,all,domicile,total uk,1605
+the university of teesside,england,All postgraduate,all,domicile,total non-uk,140
+the university of teesside,england,All undergraduate,all,total,total,14345
+the university of teesside,england,All undergraduate,full-time,total,total,7215
+the university of teesside,england,All undergraduate,part-time,total,total,7130
+the university of teesside,england,All undergraduate,all,domicile,total uk,13825
+the university of teesside,england,All undergraduate,all,domicile,total non-uk,520
+the university of teesside,england,all,full-time,total,total,7770
+the university of teesside,england,all,part-time,total,total,8320
+the university of teesside,england,all,all,domicile,total uk,15430
+the university of teesside,england,all,all,domicile,total non-uk,660
+thames valley university,england,all,all,total,total,16100
+thames valley university,england,All postgraduate,all,total,total,1550
+thames valley university,england,All postgraduate,full-time,total,total,305
+thames valley university,england,All postgraduate,part-time,total,total,1245
+thames valley university,england,All postgraduate,all,domicile,total uk,1460
+thames valley university,england,All postgraduate,all,domicile,total non-uk,90
+thames valley university,england,All undergraduate,all,total,total,14550
+thames valley university,england,All undergraduate,full-time,total,total,6955
+thames valley university,england,All undergraduate,part-time,total,total,7595
+thames valley university,england,All undergraduate,all,domicile,total uk,13425
+thames valley university,england,All undergraduate,all,domicile,total non-uk,1125
+thames valley university,england,all,full-time,total,total,7260
+thames valley university,england,all,part-time,total,total,8840
+thames valley university,england,all,all,domicile,total uk,14885
+thames valley university,england,all,all,domicile,total non-uk,1215
+trinity and all saints college,england,all,all,total,total,2640
+trinity and all saints college,england,All postgraduate,all,total,total,505
+trinity and all saints college,england,All postgraduate,full-time,total,total,205
+trinity and all saints college,england,All postgraduate,part-time,total,total,295
+trinity and all saints college,england,All postgraduate,all,domicile,total uk,490
+trinity and all saints college,england,All postgraduate,all,domicile,total non-uk,15
+trinity and all saints college,england,All undergraduate,all,total,total,2135
+trinity and all saints college,england,All undergraduate,full-time,total,total,2035
+trinity and all saints college,england,All undergraduate,part-time,total,total,105
+trinity and all saints college,england,All undergraduate,all,domicile,total uk,2100
+trinity and all saints college,england,All undergraduate,all,domicile,total non-uk,40
+trinity and all saints college,england,all,full-time,total,total,2240
+trinity and all saints college,england,all,part-time,total,total,400
+trinity and all saints college,england,all,all,domicile,total uk,2590
+trinity and all saints college,england,all,all,domicile,total non-uk,55
+trinity college of music,england,all,all,total,total,560
+trinity college of music,england,All postgraduate,all,total,total,165
+trinity college of music,england,All postgraduate,full-time,total,total,115
+trinity college of music,england,All postgraduate,part-time,total,total,45
+trinity college of music,england,All postgraduate,all,domicile,total uk,115
+trinity college of music,england,All postgraduate,all,domicile,total non-uk,50
+trinity college of music,england,All undergraduate,all,total,total,395
+trinity college of music,england,All undergraduate,full-time,total,total,395
+trinity college of music,england,All undergraduate,part-time,total,total,0
+trinity college of music,england,All undergraduate,all,domicile,total uk,290
+trinity college of music,england,All undergraduate,all,domicile,total non-uk,105
+trinity college of music,england,all,full-time,total,total,510
+trinity college of music,england,all,part-time,total,total,45
+trinity college of music,england,all,all,domicile,total uk,405
+trinity college of music,england,all,all,domicile,total non-uk,155
+university college london,england,all,all,total,total,19755
+university college london,england,All postgraduate,all,total,total,9150
+university college london,england,All postgraduate,full-time,total,total,5375
+university college london,england,All postgraduate,part-time,total,total,3775
+university college london,england,All postgraduate,all,domicile,total uk,5970
+university college london,england,All postgraduate,all,domicile,total non-uk,3180
+university college london,england,All undergraduate,all,total,total,10605
+university college london,england,All undergraduate,full-time,total,total,10335
+university college london,england,All undergraduate,part-time,total,total,270
+university college london,england,All undergraduate,all,domicile,total uk,8925
+university college london,england,All undergraduate,all,domicile,total non-uk,1680
+university college london,england,all,full-time,total,total,15710
+university college london,england,all,part-time,total,total,4045
+university college london,england,all,all,domicile,total uk,14895
+university college london,england,all,all,domicile,total non-uk,4860
+the university of warwick,england,all,all,total,total,24025
+the university of warwick,england,All postgraduate,all,total,total,7360
+the university of warwick,england,All postgraduate,full-time,total,total,2540
+the university of warwick,england,All postgraduate,part-time,total,total,4820
+the university of warwick,england,All postgraduate,all,domicile,total uk,4530
+the university of warwick,england,All postgraduate,all,domicile,total non-uk,2835
+the university of warwick,england,All undergraduate,all,total,total,16660
+the university of warwick,england,All undergraduate,full-time,total,total,8615
+the university of warwick,england,All undergraduate,part-time,total,total,8050
+the university of warwick,england,All undergraduate,all,domicile,total uk,15125
+the university of warwick,england,All undergraduate,all,domicile,total non-uk,1535
+the university of warwick,england,all,full-time,total,total,11155
+the university of warwick,england,all,part-time,total,total,12870
+the university of warwick,england,all,all,domicile,total uk,19655
+the university of warwick,england,all,all,domicile,total non-uk,4370
+"university of the west of england, bristol",england,all,all,total,total,23505
+"university of the west of england, bristol",england,All postgraduate,all,total,total,3435
+"university of the west of england, bristol",england,All postgraduate,full-time,total,total,1395
+"university of the west of england, bristol",england,All postgraduate,part-time,total,total,2040
+"university of the west of england, bristol",england,All postgraduate,all,domicile,total uk,3100
+"university of the west of england, bristol",england,All postgraduate,all,domicile,total non-uk,335
+"university of the west of england, bristol",england,All undergraduate,all,total,total,20075
+"university of the west of england, bristol",england,All undergraduate,full-time,total,total,15910
+"university of the west of england, bristol",england,All undergraduate,part-time,total,total,4160
+"university of the west of england, bristol",england,All undergraduate,all,domicile,total uk,18940
+"university of the west of england, bristol",england,All undergraduate,all,domicile,total non-uk,1135
+"university of the west of england, bristol",england,all,full-time,total,total,17305
+"university of the west of england, bristol",england,all,part-time,total,total,6200
+"university of the west of england, bristol",england,all,all,domicile,total uk,22040
+"university of the west of england, bristol",england,all,all,domicile,total non-uk,1470
+the university of westminster,england,all,all,total,total,23215
+the university of westminster,england,All postgraduate,all,total,total,6740
+the university of westminster,england,All postgraduate,full-time,total,total,2340
+the university of westminster,england,All postgraduate,part-time,total,total,4395
+the university of westminster,england,All postgraduate,all,domicile,total uk,5025
+the university of westminster,england,All postgraduate,all,domicile,total non-uk,1715
+the university of westminster,england,All undergraduate,all,total,total,16480
+the university of westminster,england,All undergraduate,full-time,total,total,9625
+the university of westminster,england,All undergraduate,part-time,total,total,6855
+the university of westminster,england,All undergraduate,all,domicile,total uk,14275
+the university of westminster,england,All undergraduate,all,domicile,total non-uk,2205
+the university of westminster,england,all,full-time,total,total,11965
+the university of westminster,england,all,part-time,total,total,11250
+the university of westminster,england,all,all,domicile,total uk,19300
+the university of westminster,england,all,all,domicile,total non-uk,3920
+wimbledon school of art,england,all,all,total,total,590
+wimbledon school of art,england,All postgraduate,all,total,total,130
+wimbledon school of art,england,All postgraduate,full-time,total,total,50
+wimbledon school of art,england,All postgraduate,part-time,total,total,80
+wimbledon school of art,england,All postgraduate,all,domicile,total uk,105
+wimbledon school of art,england,All postgraduate,all,domicile,total non-uk,25
+wimbledon school of art,england,All undergraduate,all,total,total,460
+wimbledon school of art,england,All undergraduate,full-time,total,total,445
+wimbledon school of art,england,All undergraduate,part-time,total,total,15
+wimbledon school of art,england,All undergraduate,all,domicile,total uk,395
+wimbledon school of art,england,All undergraduate,all,domicile,total non-uk,65
+wimbledon school of art,england,all,full-time,total,total,495
+wimbledon school of art,england,all,part-time,total,total,95
+wimbledon school of art,england,all,all,domicile,total uk,500
+wimbledon school of art,england,all,all,domicile,total non-uk,90
+the university of wolverhampton,england,all,all,total,total,20930
+the university of wolverhampton,england,All postgraduate,all,total,total,3120
+the university of wolverhampton,england,All postgraduate,full-time,total,total,755
+the university of wolverhampton,england,All postgraduate,part-time,total,total,2365
+the university of wolverhampton,england,All postgraduate,all,domicile,total uk,2740
+the university of wolverhampton,england,All postgraduate,all,domicile,total non-uk,380
+the university of wolverhampton,england,All undergraduate,all,total,total,17810
+the university of wolverhampton,england,All undergraduate,full-time,total,total,12450
+the university of wolverhampton,england,All undergraduate,part-time,total,total,5355
+the university of wolverhampton,england,All undergraduate,all,domicile,total uk,16215
+the university of wolverhampton,england,All undergraduate,all,domicile,total non-uk,1590
+the university of wolverhampton,england,all,full-time,total,total,13205
+the university of wolverhampton,england,all,part-time,total,total,7720
+the university of wolverhampton,england,all,all,domicile,total uk,18955
+the university of wolverhampton,england,all,all,domicile,total non-uk,1970
+university college worcester,england,all,all,total,total,6335
+university college worcester,england,All postgraduate,all,total,total,820
+university college worcester,england,All postgraduate,full-time,total,total,285
+university college worcester,england,All postgraduate,part-time,total,total,535
+university college worcester,england,All postgraduate,all,domicile,total uk,800
+university college worcester,england,All postgraduate,all,domicile,total non-uk,15
+university college worcester,england,All undergraduate,all,total,total,5515
+university college worcester,england,All undergraduate,full-time,total,total,3255
+university college worcester,england,All undergraduate,part-time,total,total,2260
+university college worcester,england,All undergraduate,all,domicile,total uk,5330
+university college worcester,england,All undergraduate,all,domicile,total non-uk,185
+university college worcester,england,all,full-time,total,total,3540
+university college worcester,england,all,part-time,total,total,2795
+university college worcester,england,all,all,domicile,total uk,6130
+university college worcester,england,all,all,domicile,total non-uk,200
+writtle college,england,all,all,total,total,1255
+writtle college,england,All postgraduate,all,total,total,60
+writtle college,england,All postgraduate,full-time,total,total,15
+writtle college,england,All postgraduate,part-time,total,total,40
+writtle college,england,All postgraduate,all,domicile,total uk,50
+writtle college,england,All postgraduate,all,domicile,total non-uk,10
+writtle college,england,All undergraduate,all,total,total,1200
+writtle college,england,All undergraduate,full-time,total,total,975
+writtle college,england,All undergraduate,part-time,total,total,220
+writtle college,england,All undergraduate,all,domicile,total uk,1045
+writtle college,england,All undergraduate,all,domicile,total non-uk,155
+writtle college,england,all,full-time,total,total,990
+writtle college,england,all,part-time,total,total,260
+writtle college,england,all,all,domicile,total uk,1095
+writtle college,england,all,all,domicile,total non-uk,165
+york st john college,england,all,all,total,total,4910
+york st john college,england,All postgraduate,all,total,total,770
+york st john college,england,All postgraduate,full-time,total,total,180
+york st john college,england,All postgraduate,part-time,total,total,590
+york st john college,england,All postgraduate,all,domicile,total uk,765
+york st john college,england,All postgraduate,all,domicile,total non-uk,5
+york st john college,england,All undergraduate,all,total,total,4140
+york st john college,england,All undergraduate,full-time,total,total,3180
+york st john college,england,All undergraduate,part-time,total,total,960
+york st john college,england,All undergraduate,all,domicile,total uk,3995
+york st john college,england,All undergraduate,all,domicile,total non-uk,145
+york st john college,england,all,full-time,total,total,3360
+york st john college,england,all,part-time,total,total,1550
+york st john college,england,all,all,domicile,total uk,4760
+york st john college,england,all,all,domicile,total non-uk,150
+the university of york,england,all,all,total,total,9480
+the university of york,england,All postgraduate,all,total,total,2435
+the university of york,england,All postgraduate,full-time,total,total,1470
+the university of york,england,All postgraduate,part-time,total,total,965
+the university of york,england,All postgraduate,all,domicile,total uk,1645
+the university of york,england,All postgraduate,all,domicile,total non-uk,790
+the university of york,england,All undergraduate,all,total,total,7045
+the university of york,england,All undergraduate,full-time,total,total,5785
+the university of york,england,All undergraduate,part-time,total,total,1260
+the university of york,england,All undergraduate,all,domicile,total uk,6615
+the university of york,england,All undergraduate,all,domicile,total non-uk,430
+the university of york,england,all,full-time,total,total,7255
+the university of york,england,all,part-time,total,total,2225
+the university of york,england,all,all,domicile,total uk,8260
+the university of york,england,all,all,domicile,total non-uk,1220
+total,wales,all,all,total,total,107300
+total,wales,All postgraduate,all,total,total,19760
+total,wales,All postgraduate,full-time,total,total,7830
+total,wales,All postgraduate,part-time,total,total,11925
+total,wales,All postgraduate,all,domicile,total uk,15780
+total,wales,All postgraduate,all,domicile,total non-uk,3980
+total,wales,All undergraduate,all,total,total,87540
+total,wales,All undergraduate,full-time,total,total,58015
+total,wales,All undergraduate,part-time,total,total,29530
+total,wales,All undergraduate,all,domicile,total uk,81735
+total,wales,All undergraduate,all,domicile,total non-uk,5810
+total,wales,all,full-time,total,total,65845
+total,wales,all,part-time,total,total,41455
+total,wales,all,all,domicile,total uk,97515
+total,wales,all,all,domicile,total non-uk,9790
+"university of wales, aberystwyth",wales,all,all,total,total,10040
+"university of wales, aberystwyth",wales,All postgraduate,all,total,total,1835
+"university of wales, aberystwyth",wales,All postgraduate,full-time,total,total,555
+"university of wales, aberystwyth",wales,All postgraduate,part-time,total,total,1280
+"university of wales, aberystwyth",wales,All postgraduate,all,domicile,total uk,1430
+"university of wales, aberystwyth",wales,All postgraduate,all,domicile,total non-uk,410
+"university of wales, aberystwyth",wales,All undergraduate,all,total,total,8200
+"university of wales, aberystwyth",wales,All undergraduate,full-time,total,total,5870
+"university of wales, aberystwyth",wales,All undergraduate,part-time,total,total,2330
+"university of wales, aberystwyth",wales,All undergraduate,all,domicile,total uk,7720
+"university of wales, aberystwyth",wales,All undergraduate,all,domicile,total non-uk,480
+"university of wales, aberystwyth",wales,all,full-time,total,total,6425
+"university of wales, aberystwyth",wales,all,part-time,total,total,3610
+"university of wales, aberystwyth",wales,all,all,domicile,total uk,9150
+"university of wales, aberystwyth",wales,all,all,domicile,total non-uk,890
+"university of wales, bangor",wales,all,all,total,total,8745
+"university of wales, bangor",wales,All postgraduate,all,total,total,1475
+"university of wales, bangor",wales,All postgraduate,full-time,total,total,870
+"university of wales, bangor",wales,All postgraduate,part-time,total,total,600
+"university of wales, bangor",wales,All postgraduate,all,domicile,total uk,1245
+"university of wales, bangor",wales,All postgraduate,all,domicile,total non-uk,230
+"university of wales, bangor",wales,All undergraduate,all,total,total,7270
+"university of wales, bangor",wales,All undergraduate,full-time,total,total,5585
+"university of wales, bangor",wales,All undergraduate,part-time,total,total,1690
+"university of wales, bangor",wales,All undergraduate,all,domicile,total uk,6865
+"university of wales, bangor",wales,All undergraduate,all,domicile,total non-uk,405
+"university of wales, bangor",wales,all,full-time,total,total,6455
+"university of wales, bangor",wales,all,part-time,total,total,2290
+"university of wales, bangor",wales,all,all,domicile,total uk,8110
+"university of wales, bangor",wales,all,all,domicile,total non-uk,635
+cardiff university,wales,all,all,total,total,20980
+cardiff university,wales,All postgraduate,all,total,total,4655
+cardiff university,wales,All postgraduate,full-time,total,total,2950
+cardiff university,wales,All postgraduate,part-time,total,total,1705
+cardiff university,wales,All postgraduate,all,domicile,total uk,3050
+cardiff university,wales,All postgraduate,all,domicile,total non-uk,1605
+cardiff university,wales,All undergraduate,all,total,total,16330
+cardiff university,wales,All undergraduate,full-time,total,total,12340
+cardiff university,wales,All undergraduate,part-time,total,total,3990
+cardiff university,wales,All undergraduate,all,domicile,total uk,15130
+cardiff university,wales,All undergraduate,all,domicile,total non-uk,1200
+cardiff university,wales,all,full-time,total,total,15290
+cardiff university,wales,all,part-time,total,total,5695
+cardiff university,wales,all,all,domicile,total uk,18180
+cardiff university,wales,all,all,domicile,total non-uk,2805
+"university of wales institute, cardiff",wales,all,all,total,total,8120
+"university of wales institute, cardiff",wales,All postgraduate,all,total,total,1360
+"university of wales institute, cardiff",wales,All postgraduate,full-time,total,total,590
+"university of wales institute, cardiff",wales,All postgraduate,part-time,total,total,770
+"university of wales institute, cardiff",wales,All postgraduate,all,domicile,total uk,1200
+"university of wales institute, cardiff",wales,All postgraduate,all,domicile,total non-uk,160
+"university of wales institute, cardiff",wales,All undergraduate,all,total,total,6760
+"university of wales institute, cardiff",wales,All undergraduate,full-time,total,total,5525
+"university of wales institute, cardiff",wales,All undergraduate,part-time,total,total,1235
+"university of wales institute, cardiff",wales,All undergraduate,all,domicile,total uk,6400
+"university of wales institute, cardiff",wales,All undergraduate,all,domicile,total non-uk,360
+"university of wales institute, cardiff",wales,all,full-time,total,total,6115
+"university of wales institute, cardiff",wales,all,part-time,total,total,2005
+"university of wales institute, cardiff",wales,all,all,domicile,total uk,7600
+"university of wales institute, cardiff",wales,all,all,domicile,total non-uk,520
+university of glamorgan,wales,all,all,total,total,17530
+university of glamorgan,wales,All postgraduate,all,total,total,2710
+university of glamorgan,wales,All postgraduate,full-time,total,total,650
+university of glamorgan,wales,All postgraduate,part-time,total,total,2065
+university of glamorgan,wales,All postgraduate,all,domicile,total uk,2330
+university of glamorgan,wales,All postgraduate,all,domicile,total non-uk,380
+university of glamorgan,wales,All undergraduate,all,total,total,14820
+university of glamorgan,wales,All undergraduate,full-time,total,total,9265
+university of glamorgan,wales,All undergraduate,part-time,total,total,5550
+university of glamorgan,wales,All undergraduate,all,domicile,total uk,13535
+university of glamorgan,wales,All undergraduate,all,domicile,total non-uk,1285
+university of glamorgan,wales,all,full-time,total,total,9915
+university of glamorgan,wales,all,part-time,total,total,7615
+university of glamorgan,wales,all,all,domicile,total uk,15865
+university of glamorgan,wales,all,all,domicile,total non-uk,1665
+"the university of wales, lampeter",wales,all,all,total,total,4440
+"the university of wales, lampeter",wales,All postgraduate,all,total,total,630
+"the university of wales, lampeter",wales,All postgraduate,full-time,total,total,90
+"the university of wales, lampeter",wales,All postgraduate,part-time,total,total,540
+"the university of wales, lampeter",wales,All postgraduate,all,domicile,total uk,420
+"the university of wales, lampeter",wales,All postgraduate,all,domicile,total non-uk,210
+"the university of wales, lampeter",wales,All undergraduate,all,total,total,3810
+"the university of wales, lampeter",wales,All undergraduate,full-time,total,total,910
+"the university of wales, lampeter",wales,All undergraduate,part-time,total,total,2900
+"the university of wales, lampeter",wales,All undergraduate,all,domicile,total uk,3610
+"the university of wales, lampeter",wales,All undergraduate,all,domicile,total non-uk,200
+"the university of wales, lampeter",wales,all,full-time,total,total,1000
+"the university of wales, lampeter",wales,all,part-time,total,total,3440
+"the university of wales, lampeter",wales,all,all,domicile,total uk,4030
+"the university of wales, lampeter",wales,all,all,domicile,total non-uk,410
+university of wales college of medicine,wales,all,all,total,total,3650
+university of wales college of medicine,wales,All postgraduate,all,total,total,1200
+university of wales college of medicine,wales,All postgraduate,full-time,total,total,220
+university of wales college of medicine,wales,All postgraduate,part-time,total,total,985
+university of wales college of medicine,wales,All postgraduate,all,domicile,total uk,980
+university of wales college of medicine,wales,All postgraduate,all,domicile,total non-uk,220
+university of wales college of medicine,wales,All undergraduate,all,total,total,2445
+university of wales college of medicine,wales,All undergraduate,full-time,total,total,2160
+university of wales college of medicine,wales,All undergraduate,part-time,total,total,285
+university of wales college of medicine,wales,All undergraduate,all,domicile,total uk,2325
+university of wales college of medicine,wales,All undergraduate,all,domicile,total non-uk,120
+university of wales college of medicine,wales,all,full-time,total,total,2380
+university of wales college of medicine,wales,all,part-time,total,total,1270
+university of wales college of medicine,wales,all,all,domicile,total uk,3305
+university of wales college of medicine,wales,all,all,domicile,total non-uk,340
+"university of wales college, newport",wales,all,all,total,total,8185
+"university of wales college, newport",wales,All postgraduate,all,total,total,1375
+"university of wales college, newport",wales,All postgraduate,full-time,total,total,275
+"university of wales college, newport",wales,All postgraduate,part-time,total,total,1100
+"university of wales college, newport",wales,All postgraduate,all,domicile,total uk,1230
+"university of wales college, newport",wales,All postgraduate,all,domicile,total non-uk,145
+"university of wales college, newport",wales,All undergraduate,all,total,total,6810
+"university of wales college, newport",wales,All undergraduate,full-time,total,total,2420
+"university of wales college, newport",wales,All undergraduate,part-time,total,total,4390
+"university of wales college, newport",wales,All undergraduate,all,domicile,total uk,6510
+"university of wales college, newport",wales,All undergraduate,all,domicile,total non-uk,300
+"university of wales college, newport",wales,all,full-time,total,total,2695
+"university of wales college, newport",wales,all,part-time,total,total,5490
+"university of wales college, newport",wales,all,all,domicile,total uk,7740
+"university of wales college, newport",wales,all,all,domicile,total non-uk,445
+the north-east wales institute of higher education,wales,all,all,total,total,5385
+the north-east wales institute of higher education,wales,All postgraduate,all,total,total,600
+the north-east wales institute of higher education,wales,All postgraduate,full-time,total,total,20
+the north-east wales institute of higher education,wales,All postgraduate,part-time,total,total,580
+the north-east wales institute of higher education,wales,All postgraduate,all,domicile,total uk,575
+the north-east wales institute of higher education,wales,All postgraduate,all,domicile,total non-uk,25
+the north-east wales institute of higher education,wales,All undergraduate,all,total,total,4785
+the north-east wales institute of higher education,wales,All undergraduate,full-time,total,total,2370
+the north-east wales institute of higher education,wales,All undergraduate,part-time,total,total,2420
+the north-east wales institute of higher education,wales,All undergraduate,all,domicile,total uk,4160
+the north-east wales institute of higher education,wales,All undergraduate,all,domicile,total non-uk,625
+the north-east wales institute of higher education,wales,all,full-time,total,total,2390
+the north-east wales institute of higher education,wales,all,part-time,total,total,3000
+the north-east wales institute of higher education,wales,all,all,domicile,total uk,4735
+the north-east wales institute of higher education,wales,all,all,domicile,total non-uk,650
+swansea institute of higher education,wales,all,all,total,total,4725
+swansea institute of higher education,wales,All postgraduate,all,total,total,700
+swansea institute of higher education,wales,All postgraduate,full-time,total,total,100
+swansea institute of higher education,wales,All postgraduate,part-time,total,total,600
+swansea institute of higher education,wales,All postgraduate,all,domicile,total uk,695
+swansea institute of higher education,wales,All postgraduate,all,domicile,total non-uk,5
+swansea institute of higher education,wales,All undergraduate,all,total,total,4025
+swansea institute of higher education,wales,All undergraduate,full-time,total,total,3105
+swansea institute of higher education,wales,All undergraduate,part-time,total,total,920
+swansea institute of higher education,wales,All undergraduate,all,domicile,total uk,3890
+swansea institute of higher education,wales,All undergraduate,all,domicile,total non-uk,135
+swansea institute of higher education,wales,all,full-time,total,total,3205
+swansea institute of higher education,wales,all,part-time,total,total,1520
+swansea institute of higher education,wales,all,all,domicile,total uk,4585
+swansea institute of higher education,wales,all,all,domicile,total non-uk,140
+"university of wales, swansea",wales,all,all,total,total,12240
+"university of wales, swansea",wales,All postgraduate,all,total,total,2820
+"university of wales, swansea",wales,All postgraduate,full-time,total,total,1325
+"university of wales, swansea",wales,All postgraduate,part-time,total,total,1495
+"university of wales, swansea",wales,All postgraduate,all,domicile,total uk,2255
+"university of wales, swansea",wales,All postgraduate,all,domicile,total non-uk,565
+"university of wales, swansea",wales,All undergraduate,all,total,total,9420
+"university of wales, swansea",wales,All undergraduate,full-time,total,total,6955
+"university of wales, swansea",wales,All undergraduate,part-time,total,total,2465
+"university of wales, swansea",wales,All undergraduate,all,domicile,total uk,8830
+"university of wales, swansea",wales,All undergraduate,all,domicile,total non-uk,590
+"university of wales, swansea",wales,all,full-time,total,total,8280
+"university of wales, swansea",wales,all,part-time,total,total,3960
+"university of wales, swansea",wales,all,all,domicile,total uk,11085
+"university of wales, swansea",wales,all,all,domicile,total non-uk,1155
+"trinity college, carmarthen",wales,all,all,total,total,2670
+"trinity college, carmarthen",wales,All postgraduate,all,total,total,370
+"trinity college, carmarthen",wales,All postgraduate,full-time,total,total,170
+"trinity college, carmarthen",wales,All postgraduate,part-time,total,total,205
+"trinity college, carmarthen",wales,All postgraduate,all,domicile,total uk,355
+"trinity college, carmarthen",wales,All postgraduate,all,domicile,total non-uk,20
+"trinity college, carmarthen",wales,All undergraduate,all,total,total,2295
+"trinity college, carmarthen",wales,All undergraduate,full-time,total,total,985
+"trinity college, carmarthen",wales,All undergraduate,part-time,total,total,1310
+"trinity college, carmarthen",wales,All undergraduate,all,domicile,total uk,2230
+"trinity college, carmarthen",wales,All undergraduate,all,domicile,total non-uk,70
+"trinity college, carmarthen",wales,all,full-time,total,total,1155
+"trinity college, carmarthen",wales,all,part-time,total,total,1515
+"trinity college, carmarthen",wales,all,all,domicile,total uk,2585
+"trinity college, carmarthen",wales,all,all,domicile,total non-uk,90
+welsh college of music and drama,wales,all,all,total,total,590
+welsh college of music and drama,wales,All postgraduate,all,total,total,25
+welsh college of music and drama,wales,All postgraduate,full-time,total,total,20
+welsh college of music and drama,wales,All postgraduate,part-time,total,total,5
+welsh college of music and drama,wales,All postgraduate,all,domicile,total uk,15
+welsh college of music and drama,wales,All postgraduate,all,domicile,total non-uk,5
+welsh college of music and drama,wales,All undergraduate,all,total,total,565
+welsh college of music and drama,wales,All undergraduate,full-time,total,total,520
+welsh college of music and drama,wales,All undergraduate,part-time,total,total,45
+welsh college of music and drama,wales,All undergraduate,all,domicile,total uk,525
+welsh college of music and drama,wales,All undergraduate,all,domicile,total non-uk,45
+welsh college of music and drama,wales,all,full-time,total,total,540
+welsh college of music and drama,wales,all,part-time,total,total,50
+welsh college of music and drama,wales,all,all,domicile,total uk,540
+welsh college of music and drama,wales,all,all,domicile,total non-uk,50
+total,scotland,all,all,total,total,180305
+total,scotland,All postgraduate,all,total,total,40755
+total,scotland,All postgraduate,full-time,total,total,16020
+total,scotland,All postgraduate,part-time,total,total,24735
+total,scotland,All postgraduate,all,domicile,total uk,31385
+total,scotland,All postgraduate,all,domicile,total non-uk,9370
+total,scotland,All undergraduate,all,total,total,139550
+total,scotland,All undergraduate,full-time,total,total,114260
+total,scotland,All undergraduate,part-time,total,total,25290
+total,scotland,All undergraduate,all,domicile,total uk,129285
+total,scotland,All undergraduate,all,domicile,total non-uk,10270
+total,scotland,all,full-time,total,total,130280
+total,scotland,all,part-time,total,total,50025
+total,scotland,all,all,domicile,total uk,160670
+total,scotland,all,all,domicile,total non-uk,19640
+the university of aberdeen,scotland,all,all,total,total,11030
+the university of aberdeen,scotland,All postgraduate,all,total,total,2130
+the university of aberdeen,scotland,All postgraduate,full-time,total,total,1025
+the university of aberdeen,scotland,All postgraduate,part-time,total,total,1105
+the university of aberdeen,scotland,All postgraduate,all,domicile,total uk,1370
+the university of aberdeen,scotland,All postgraduate,all,domicile,total non-uk,760
+the university of aberdeen,scotland,All undergraduate,all,total,total,8900
+the university of aberdeen,scotland,All undergraduate,full-time,total,total,8060
+the university of aberdeen,scotland,All undergraduate,part-time,total,total,840
+the university of aberdeen,scotland,All undergraduate,all,domicile,total uk,8075
+the university of aberdeen,scotland,All undergraduate,all,domicile,total non-uk,820
+the university of aberdeen,scotland,all,full-time,total,total,9085
+the university of aberdeen,scotland,all,part-time,total,total,1945
+the university of aberdeen,scotland,all,all,domicile,total uk,9445
+the university of aberdeen,scotland,all,all,domicile,total non-uk,1580
+university of abertay dundee,scotland,all,all,total,total,4630
+university of abertay dundee,scotland,All postgraduate,all,total,total,690
+university of abertay dundee,scotland,All postgraduate,full-time,total,total,350
+university of abertay dundee,scotland,All postgraduate,part-time,total,total,335
+university of abertay dundee,scotland,All postgraduate,all,domicile,total uk,495
+university of abertay dundee,scotland,All postgraduate,all,domicile,total non-uk,195
+university of abertay dundee,scotland,All undergraduate,all,total,total,3940
+university of abertay dundee,scotland,All undergraduate,full-time,total,total,3435
+university of abertay dundee,scotland,All undergraduate,part-time,total,total,500
+university of abertay dundee,scotland,All undergraduate,all,domicile,total uk,3595
+university of abertay dundee,scotland,All undergraduate,all,domicile,total non-uk,345
+university of abertay dundee,scotland,all,full-time,total,total,3785
+university of abertay dundee,scotland,all,part-time,total,total,835
+university of abertay dundee,scotland,all,all,domicile,total uk,4090
+university of abertay dundee,scotland,all,all,domicile,total non-uk,540
+the university of dundee,scotland,all,all,total,total,12920
+the university of dundee,scotland,All postgraduate,all,total,total,3190
+the university of dundee,scotland,All postgraduate,full-time,total,total,630
+the university of dundee,scotland,All postgraduate,part-time,total,total,2560
+the university of dundee,scotland,All postgraduate,all,domicile,total uk,2350
+the university of dundee,scotland,All postgraduate,all,domicile,total non-uk,835
+the university of dundee,scotland,All undergraduate,all,total,total,9735
+the university of dundee,scotland,All undergraduate,full-time,total,total,7645
+the university of dundee,scotland,All undergraduate,part-time,total,total,2090
+the university of dundee,scotland,All undergraduate,all,domicile,total uk,8835
+the university of dundee,scotland,All undergraduate,all,domicile,total non-uk,900
+the university of dundee,scotland,all,full-time,total,total,8275
+the university of dundee,scotland,all,part-time,total,total,4650
+the university of dundee,scotland,all,all,domicile,total uk,11185
+the university of dundee,scotland,all,all,domicile,total non-uk,1735
+edinburgh college of art,scotland,all,all,total,total,1635
+edinburgh college of art,scotland,All postgraduate,all,total,total,340
+edinburgh college of art,scotland,All postgraduate,full-time,total,total,255
+edinburgh college of art,scotland,All postgraduate,part-time,total,total,85
+edinburgh college of art,scotland,All postgraduate,all,domicile,total uk,220
+edinburgh college of art,scotland,All postgraduate,all,domicile,total non-uk,120
+edinburgh college of art,scotland,All undergraduate,all,total,total,1295
+edinburgh college of art,scotland,All undergraduate,full-time,total,total,1295
+edinburgh college of art,scotland,All undergraduate,part-time,total,total,0
+edinburgh college of art,scotland,All undergraduate,all,domicile,total uk,1165
+edinburgh college of art,scotland,All undergraduate,all,domicile,total non-uk,135
+edinburgh college of art,scotland,all,full-time,total,total,1550
+edinburgh college of art,scotland,all,part-time,total,total,85
+edinburgh college of art,scotland,all,all,domicile,total uk,1385
+edinburgh college of art,scotland,all,all,domicile,total non-uk,255
+the university of edinburgh,scotland,all,all,total,total,23970
+the university of edinburgh,scotland,All postgraduate,all,total,total,5855
+the university of edinburgh,scotland,All postgraduate,full-time,total,total,2815
+the university of edinburgh,scotland,All postgraduate,part-time,total,total,3040
+the university of edinburgh,scotland,All postgraduate,all,domicile,total uk,4105
+the university of edinburgh,scotland,All postgraduate,all,domicile,total non-uk,1750
+the university of edinburgh,scotland,All undergraduate,all,total,total,18115
+the university of edinburgh,scotland,All undergraduate,full-time,total,total,14820
+the university of edinburgh,scotland,All undergraduate,part-time,total,total,3300
+the university of edinburgh,scotland,All undergraduate,all,domicile,total uk,16545
+the university of edinburgh,scotland,All undergraduate,all,domicile,total non-uk,1570
+the university of edinburgh,scotland,all,full-time,total,total,17635
+the university of edinburgh,scotland,all,part-time,total,total,6340
+the university of edinburgh,scotland,all,all,domicile,total uk,20650
+the university of edinburgh,scotland,all,all,domicile,total non-uk,3320
+glasgow caledonian university,scotland,all,all,total,total,14410
+glasgow caledonian university,scotland,All postgraduate,all,total,total,1905
+glasgow caledonian university,scotland,All postgraduate,full-time,total,total,760
+glasgow caledonian university,scotland,All postgraduate,part-time,total,total,1145
+glasgow caledonian university,scotland,All postgraduate,all,domicile,total uk,1720
+glasgow caledonian university,scotland,All postgraduate,all,domicile,total non-uk,185
+glasgow caledonian university,scotland,All undergraduate,all,total,total,12505
+glasgow caledonian university,scotland,All undergraduate,full-time,total,total,10080
+glasgow caledonian university,scotland,All undergraduate,part-time,total,total,2425
+glasgow caledonian university,scotland,All undergraduate,all,domicile,total uk,12145
+glasgow caledonian university,scotland,All undergraduate,all,domicile,total non-uk,365
+glasgow caledonian university,scotland,all,full-time,total,total,10840
+glasgow caledonian university,scotland,all,part-time,total,total,3570
+glasgow caledonian university,scotland,all,all,domicile,total uk,13865
+glasgow caledonian university,scotland,all,all,domicile,total non-uk,550
+glasgow school of art,scotland,all,all,total,total,1500
+glasgow school of art,scotland,All postgraduate,all,total,total,115
+glasgow school of art,scotland,All postgraduate,full-time,total,total,95
+glasgow school of art,scotland,All postgraduate,part-time,total,total,20
+glasgow school of art,scotland,All postgraduate,all,domicile,total uk,70
+glasgow school of art,scotland,All postgraduate,all,domicile,total non-uk,45
+glasgow school of art,scotland,All undergraduate,all,total,total,1385
+glasgow school of art,scotland,All undergraduate,full-time,total,total,1370
+glasgow school of art,scotland,All undergraduate,part-time,total,total,15
+glasgow school of art,scotland,All undergraduate,all,domicile,total uk,1115
+glasgow school of art,scotland,All undergraduate,all,domicile,total non-uk,270
+glasgow school of art,scotland,all,full-time,total,total,1465
+glasgow school of art,scotland,all,part-time,total,total,35
+glasgow school of art,scotland,all,all,domicile,total uk,1185
+glasgow school of art,scotland,all,all,domicile,total non-uk,315
+the university of glasgow,scotland,all,all,total,total,23100
+the university of glasgow,scotland,All postgraduate,all,total,total,4815
+the university of glasgow,scotland,All postgraduate,full-time,total,total,2010
+the university of glasgow,scotland,All postgraduate,part-time,total,total,2805
+the university of glasgow,scotland,All postgraduate,all,domicile,total uk,3920
+the university of glasgow,scotland,All postgraduate,all,domicile,total non-uk,900
+the university of glasgow,scotland,All undergraduate,all,total,total,18280
+the university of glasgow,scotland,All undergraduate,full-time,total,total,14290
+the university of glasgow,scotland,All undergraduate,part-time,total,total,3990
+the university of glasgow,scotland,All undergraduate,all,domicile,total uk,17480
+the university of glasgow,scotland,All undergraduate,all,domicile,total non-uk,805
+the university of glasgow,scotland,all,full-time,total,total,16300
+the university of glasgow,scotland,all,part-time,total,total,6795
+the university of glasgow,scotland,all,all,domicile,total uk,21400
+the university of glasgow,scotland,all,all,domicile,total non-uk,1705
+heriot-watt university,scotland,all,all,total,total,7445
+heriot-watt university,scotland,All postgraduate,all,total,total,2815
+heriot-watt university,scotland,All postgraduate,full-time,total,total,975
+heriot-watt university,scotland,All postgraduate,part-time,total,total,1840
+heriot-watt university,scotland,All postgraduate,all,domicile,total uk,1840
+heriot-watt university,scotland,All postgraduate,all,domicile,total non-uk,975
+heriot-watt university,scotland,All undergraduate,all,total,total,4630
+heriot-watt university,scotland,All undergraduate,full-time,total,total,4525
+heriot-watt university,scotland,All undergraduate,part-time,total,total,105
+heriot-watt university,scotland,All undergraduate,all,domicile,total uk,4025
+heriot-watt university,scotland,All undergraduate,all,domicile,total non-uk,610
+heriot-watt university,scotland,all,full-time,total,total,5500
+heriot-watt university,scotland,all,part-time,total,total,1945
+heriot-watt university,scotland,all,all,domicile,total uk,5865
+heriot-watt university,scotland,all,all,domicile,total non-uk,1585
+napier university,scotland,all,all,total,total,12780
+napier university,scotland,All postgraduate,all,total,total,2280
+napier university,scotland,All postgraduate,full-time,total,total,830
+napier university,scotland,All postgraduate,part-time,total,total,1450
+napier university,scotland,All postgraduate,all,domicile,total uk,2055
+napier university,scotland,All postgraduate,all,domicile,total non-uk,225
+napier university,scotland,All undergraduate,all,total,total,10500
+napier university,scotland,All undergraduate,full-time,total,total,8370
+napier university,scotland,All undergraduate,part-time,total,total,2130
+napier university,scotland,All undergraduate,all,domicile,total uk,9610
+napier university,scotland,All undergraduate,all,domicile,total non-uk,890
+napier university,scotland,all,full-time,total,total,9200
+napier university,scotland,all,part-time,total,total,3580
+napier university,scotland,all,all,domicile,total uk,11665
+napier university,scotland,all,all,domicile,total non-uk,1115
+northern college of education,scotland,all,all,total,total,3105
+northern college of education,scotland,All postgraduate,all,total,total,1675
+northern college of education,scotland,All postgraduate,full-time,total,total,275
+northern college of education,scotland,All postgraduate,part-time,total,total,1400
+northern college of education,scotland,All postgraduate,all,domicile,total uk,1580
+northern college of education,scotland,All postgraduate,all,domicile,total non-uk,95
+northern college of education,scotland,All undergraduate,all,total,total,1430
+northern college of education,scotland,All undergraduate,full-time,total,total,820
+northern college of education,scotland,All undergraduate,part-time,total,total,610
+northern college of education,scotland,All undergraduate,all,domicile,total uk,1410
+northern college of education,scotland,All undergraduate,all,domicile,total non-uk,20
+northern college of education,scotland,all,full-time,total,total,1095
+northern college of education,scotland,all,part-time,total,total,2010
+northern college of education,scotland,all,all,domicile,total uk,2990
+northern college of education,scotland,all,all,domicile,total non-uk,115
+the university of paisley,scotland,all,all,total,total,10475
+the university of paisley,scotland,All postgraduate,all,total,total,1615
+the university of paisley,scotland,All postgraduate,full-time,total,total,830
+the university of paisley,scotland,All postgraduate,part-time,total,total,785
+the university of paisley,scotland,All postgraduate,all,domicile,total uk,1445
+the university of paisley,scotland,All postgraduate,all,domicile,total non-uk,170
+the university of paisley,scotland,All undergraduate,all,total,total,8855
+the university of paisley,scotland,All undergraduate,full-time,total,total,5720
+the university of paisley,scotland,All undergraduate,part-time,total,total,3135
+the university of paisley,scotland,All undergraduate,all,domicile,total uk,8490
+the university of paisley,scotland,All undergraduate,all,domicile,total non-uk,365
+the university of paisley,scotland,all,full-time,total,total,6550
+the university of paisley,scotland,all,part-time,total,total,3920
+the university of paisley,scotland,all,all,domicile,total uk,9935
+the university of paisley,scotland,all,all,domicile,total non-uk,535
+"queen margaret university college, edinburgh",scotland,all,all,total,total,4255
+"queen margaret university college, edinburgh",scotland,All postgraduate,all,total,total,500
+"queen margaret university college, edinburgh",scotland,All postgraduate,full-time,total,total,200
+"queen margaret university college, edinburgh",scotland,All postgraduate,part-time,total,total,295
+"queen margaret university college, edinburgh",scotland,All postgraduate,all,domicile,total uk,410
+"queen margaret university college, edinburgh",scotland,All postgraduate,all,domicile,total non-uk,90
+"queen margaret university college, edinburgh",scotland,All undergraduate,all,total,total,3755
+"queen margaret university college, edinburgh",scotland,All undergraduate,full-time,total,total,2935
+"queen margaret university college, edinburgh",scotland,All undergraduate,part-time,total,total,820
+"queen margaret university college, edinburgh",scotland,All undergraduate,all,domicile,total uk,3220
+"queen margaret university college, edinburgh",scotland,All undergraduate,all,domicile,total non-uk,535
+"queen margaret university college, edinburgh",scotland,all,full-time,total,total,3135
+"queen margaret university college, edinburgh",scotland,all,part-time,total,total,1115
+"queen margaret university college, edinburgh",scotland,all,all,domicile,total uk,3630
+"queen margaret university college, edinburgh",scotland,all,all,domicile,total non-uk,625
+the robert gordon university,scotland,all,all,total,total,10950
+the robert gordon university,scotland,All postgraduate,all,total,total,2310
+the robert gordon university,scotland,All postgraduate,full-time,total,total,595
+the robert gordon university,scotland,All postgraduate,part-time,total,total,1715
+the robert gordon university,scotland,All postgraduate,all,domicile,total uk,1780
+the robert gordon university,scotland,All postgraduate,all,domicile,total non-uk,530
+the robert gordon university,scotland,All undergraduate,all,total,total,8640
+the robert gordon university,scotland,All undergraduate,full-time,total,total,6855
+the robert gordon university,scotland,All undergraduate,part-time,total,total,1785
+the robert gordon university,scotland,All undergraduate,all,domicile,total uk,8080
+the robert gordon university,scotland,All undergraduate,all,domicile,total non-uk,560
+the robert gordon university,scotland,all,full-time,total,total,7450
+the robert gordon university,scotland,all,part-time,total,total,3500
+the robert gordon university,scotland,all,all,domicile,total uk,9860
+the robert gordon university,scotland,all,all,domicile,total non-uk,1090
+the royal scottish academy of music and drama,scotland,all,all,total,total,630
+the royal scottish academy of music and drama,scotland,All postgraduate,all,total,total,105
+the royal scottish academy of music and drama,scotland,All postgraduate,full-time,total,total,90
+the royal scottish academy of music and drama,scotland,All postgraduate,part-time,total,total,20
+the royal scottish academy of music and drama,scotland,All postgraduate,all,domicile,total uk,75
+the royal scottish academy of music and drama,scotland,All postgraduate,all,domicile,total non-uk,35
+the royal scottish academy of music and drama,scotland,All undergraduate,all,total,total,525
+the royal scottish academy of music and drama,scotland,All undergraduate,full-time,total,total,525
+the royal scottish academy of music and drama,scotland,All undergraduate,part-time,total,total,0
+the royal scottish academy of music and drama,scotland,All undergraduate,all,domicile,total uk,495
+the royal scottish academy of music and drama,scotland,All undergraduate,all,domicile,total non-uk,30
+the royal scottish academy of music and drama,scotland,all,full-time,total,total,615
+the royal scottish academy of music and drama,scotland,all,part-time,total,total,20
+the royal scottish academy of music and drama,scotland,all,all,domicile,total uk,570
+the royal scottish academy of music and drama,scotland,all,all,domicile,total non-uk,65
+the university of st andrews,scotland,all,all,total,total,7185
+the university of st andrews,scotland,All postgraduate,all,total,total,1165
+the university of st andrews,scotland,All postgraduate,full-time,total,total,940
+the university of st andrews,scotland,All postgraduate,part-time,total,total,225
+the university of st andrews,scotland,All postgraduate,all,domicile,total uk,765
+the university of st andrews,scotland,All postgraduate,all,domicile,total non-uk,400
+the university of st andrews,scotland,All undergraduate,all,total,total,6015
+the university of st andrews,scotland,All undergraduate,full-time,total,total,5630
+the university of st andrews,scotland,All undergraduate,part-time,total,total,385
+the university of st andrews,scotland,All undergraduate,all,domicile,total uk,4815
+the university of st andrews,scotland,All undergraduate,all,domicile,total non-uk,1205
+the university of st andrews,scotland,all,full-time,total,total,6570
+the university of st andrews,scotland,all,part-time,total,total,610
+the university of st andrews,scotland,all,all,domicile,total uk,5580
+the university of st andrews,scotland,all,all,domicile,total non-uk,1605
+scottish agricultural college,scotland,all,all,total,total,830
+scottish agricultural college,scotland,All postgraduate,all,total,total,45
+scottish agricultural college,scotland,All postgraduate,full-time,total,total,35
+scottish agricultural college,scotland,All postgraduate,part-time,total,total,5
+scottish agricultural college,scotland,All postgraduate,all,domicile,total uk,35
+scottish agricultural college,scotland,All postgraduate,all,domicile,total non-uk,10
+scottish agricultural college,scotland,All undergraduate,all,total,total,785
+scottish agricultural college,scotland,All undergraduate,full-time,total,total,785
+scottish agricultural college,scotland,All undergraduate,part-time,total,total,0
+scottish agricultural college,scotland,All undergraduate,all,domicile,total uk,745
+scottish agricultural college,scotland,All undergraduate,all,domicile,total non-uk,40
+scottish agricultural college,scotland,all,full-time,total,total,820
+scottish agricultural college,scotland,all,part-time,total,total,5
+scottish agricultural college,scotland,all,all,domicile,total uk,780
+scottish agricultural college,scotland,all,all,domicile,total non-uk,50
+the university of stirling,scotland,all,all,total,total,8395
+the university of stirling,scotland,All postgraduate,all,total,total,1730
+the university of stirling,scotland,All postgraduate,full-time,total,total,780
+the university of stirling,scotland,All postgraduate,part-time,total,total,950
+the university of stirling,scotland,All postgraduate,all,domicile,total uk,1245
+the university of stirling,scotland,All postgraduate,all,domicile,total non-uk,485
+the university of stirling,scotland,All undergraduate,all,total,total,6665
+the university of stirling,scotland,All undergraduate,full-time,total,total,5830
+the university of stirling,scotland,All undergraduate,part-time,total,total,835
+the university of stirling,scotland,All undergraduate,all,domicile,total uk,6390
+the university of stirling,scotland,All undergraduate,all,domicile,total non-uk,275
+the university of stirling,scotland,all,full-time,total,total,6610
+the university of stirling,scotland,all,part-time,total,total,1785
+the university of stirling,scotland,all,all,domicile,total uk,7635
+the university of stirling,scotland,all,all,domicile,total non-uk,760
+the university of strathclyde,scotland,all,all,total,total,21050
+the university of strathclyde,scotland,All postgraduate,all,total,total,7470
+the university of strathclyde,scotland,All postgraduate,full-time,total,total,2520
+the university of strathclyde,scotland,All postgraduate,part-time,total,total,4945
+the university of strathclyde,scotland,All postgraduate,all,domicile,total uk,5905
+the university of strathclyde,scotland,All postgraduate,all,domicile,total non-uk,1565
+the university of strathclyde,scotland,All undergraduate,all,total,total,13585
+the university of strathclyde,scotland,All undergraduate,full-time,total,total,11260
+the university of strathclyde,scotland,All undergraduate,part-time,total,total,2320
+the university of strathclyde,scotland,All undergraduate,all,domicile,total uk,13045
+the university of strathclyde,scotland,All undergraduate,all,domicile,total non-uk,540
+the university of strathclyde,scotland,all,full-time,total,total,13780
+the university of strathclyde,scotland,all,part-time,total,total,7265
+the university of strathclyde,scotland,all,all,domicile,total uk,18950
+the university of strathclyde,scotland,all,all,domicile,total non-uk,2105
+the queen's university of belfast,scotland,all,all,total,total,22130
+the queen's university of belfast,scotland,All postgraduate,all,total,total,4585
+the queen's university of belfast,scotland,All postgraduate,full-time,total,total,2005
+the queen's university of belfast,scotland,All postgraduate,part-time,total,total,2580
+the queen's university of belfast,scotland,All postgraduate,all,domicile,total uk,3670
+the queen's university of belfast,scotland,All postgraduate,all,domicile,total non-uk,920
+the queen's university of belfast,scotland,All undergraduate,all,total,total,17540
+the queen's university of belfast,scotland,All undergraduate,full-time,total,total,11630
+the queen's university of belfast,scotland,All undergraduate,part-time,total,total,5910
+the queen's university of belfast,scotland,All undergraduate,all,domicile,total uk,16105
+the queen's university of belfast,scotland,All undergraduate,all,domicile,total non-uk,1435
+the queen's university of belfast,scotland,all,full-time,total,total,13635
+the queen's university of belfast,scotland,all,part-time,total,total,8490
+the queen's university of belfast,scotland,all,all,domicile,total uk,19775
+the queen's university of belfast,scotland,all,all,domicile,total non-uk,2355
+st mary's university college,scotland,all,all,total,total,965
+st mary's university college,scotland,All postgraduate,all,total,total,160
+st mary's university college,scotland,All postgraduate,full-time,total,total,10
+st mary's university college,scotland,All postgraduate,part-time,total,total,150
+st mary's university college,scotland,All postgraduate,all,domicile,total uk,155
+st mary's university college,scotland,All postgraduate,all,domicile,total non-uk,5
+st mary's university college,scotland,All undergraduate,all,total,total,805
+st mary's university college,scotland,All undergraduate,full-time,total,total,735
+st mary's university college,scotland,All undergraduate,part-time,total,total,70
+st mary's university college,scotland,All undergraduate,all,domicile,total uk,755
+st mary's university college,scotland,All undergraduate,all,domicile,total non-uk,50
+st mary's university college,scotland,all,full-time,total,total,745
+st mary's university college,scotland,all,part-time,total,total,220
+st mary's university college,scotland,all,all,domicile,total uk,910
+st mary's university college,scotland,all,all,domicile,total non-uk,55
+stranmillis university college,scotland,all,all,total,total,1220
+stranmillis university college,scotland,All postgraduate,all,total,total,165
+stranmillis university college,scotland,All postgraduate,full-time,total,total,35
+stranmillis university college,scotland,All postgraduate,part-time,total,total,125
+stranmillis university college,scotland,All postgraduate,all,domicile,total uk,160
+stranmillis university college,scotland,All postgraduate,all,domicile,total non-uk,0
+stranmillis university college,scotland,All undergraduate,all,total,total,1055
+stranmillis university college,scotland,All undergraduate,full-time,total,total,790
+stranmillis university college,scotland,All undergraduate,part-time,total,total,265
+stranmillis university college,scotland,All undergraduate,all,domicile,total uk,1035
+stranmillis university college,scotland,All undergraduate,all,domicile,total non-uk,20
+stranmillis university college,scotland,all,full-time,total,total,825
+stranmillis university college,scotland,all,part-time,total,total,390
+stranmillis university college,scotland,all,all,domicile,total uk,1195
+stranmillis university college,scotland,all,all,domicile,total non-uk,20
+university of ulster,scotland,all,all,total,total,22005
+university of ulster,scotland,All postgraduate,all,total,total,5465
+university of ulster,scotland,All postgraduate,full-time,total,total,1905
+university of ulster,scotland,All postgraduate,part-time,total,total,3555
+university of ulster,scotland,All postgraduate,all,domicile,total uk,4305
+university of ulster,scotland,All postgraduate,all,domicile,total non-uk,1160
+university of ulster,scotland,All undergraduate,all,total,total,16540
+university of ulster,scotland,All undergraduate,full-time,total,total,12785
+university of ulster,scotland,All undergraduate,part-time,total,total,3755
+university of ulster,scotland,All undergraduate,all,domicile,total uk,15055
+university of ulster,scotland,All undergraduate,all,domicile,total non-uk,1485
+university of ulster,scotland,all,full-time,total,total,14690
+university of ulster,scotland,all,part-time,total,total,7310
+university of ulster,scotland,all,all,domicile,total uk,19360
+university of ulster,scotland,all,all,domicile,total non-uk,2645
